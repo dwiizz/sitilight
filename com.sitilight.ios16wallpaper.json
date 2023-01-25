@@ -1,0 +1,169 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"PL350911184828",
+      "backup_ads_intertitial":"PL350911184828",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL350911184828",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+       {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+{
+   "id": 1,
+   "title": "Valentine Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/r4lJHrBMva39CmtyPD0FC-whnYbVTf-oh4hJBaTk5LuvMFEeNVvUp72Z7_tBbBXShPLL=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.valentine"
+ },
+ {
+   "id": 1,
+   "title": "Pastel Cute Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+ },
+{
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ },
+{
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 2,
+   "title": "HD Wallpaper n Vivid Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
+ },
+ {
+   "id": 3,
+   "title": "Preppy Wallpapers Blue",
+   "image": "https://play-lh.googleusercontent.com/Ra7bzITG047OGlM-q9JQErvixoRBPhxWCdk4dQeVWOmgeb_bd2vbS9f5YQNeeC3bH2o=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
+ },
+ 
+ 
+ {
+   "id": 6,
+   "title": "Aesthetic Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/SwncRlGPejabuC97H2tiy0KmQzNze9RmqdHT-Mz-IWx1IJm-D5URA6VRA3JFFKSidG8=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul2.pastelwallpaper"
+ },
+ {
+   "id": 7,
+   "title": "Preppy Wallpapers Aesthetic",
+   "image": "https://play-lh.googleusercontent.com/EbRiBgYFys2d3Pvd3SEnowPtEqzy0lvfhrUc6nQ5VryvwFKgX4sy9lgUBohkkLPvrhhU=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaperaesthetic"
+ },
+ {
+   "id": 8,
+   "title": "Fake Call : Santa Claus",
+   "image": "https://play-lh.googleusercontent.com/H9z9-nKNR2RxBE_h6lq_Ksrbgh4ScN494jwsoDVZkhuyCzdla1dXPXW_7_njM1mg1EQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fakecall"
+ },
+ {
+   "id": 9,
+   "title": "Sport Car Live Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/nf_m2jvHz0SZlG4JLGFosepwahzehFA4_D82T7gsIQiqaaRH_7RB9vKl0VtlbrZ27jPo=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.realcarswallpaper"
+ },
+ 
+ {
+   "id": 11,
+   "title": "Twibbon Maker : Photo Frame",
+   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
+ },
+ {
+   "id": 12,
+   "title": "Cek Pajak Kendaraan Samsat",
+   "image": "https://play-lh.googleusercontent.com/ECWL2sW-To60Uaix3keo8iu1IiVAHItyD696SUknSDntsWEPfVEom-qgapSAf2feMqYh=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
+ },
+ {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Autumn",
+      "image": "https://i.pinimg.com/736x/80/53/35/805335bb6a331718317bc5e51067437c.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Summer",
+      "image": "https://i.pinimg.com/736x/c1/20/2d/c1202de3793989524e8b4ba4f1d59080.jpg"
+
+    },
+    
+    {
+      "id": 3,
+      "name_category": "Spring",
+      "image": "https://i.pinimg.com/736x/f3/08/5b/f3085b1f80b42a116210b50a0e171b58.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Winter",
+      "image": "https://i.pinimg.com/736x/f3/08/5b/f3085b1f80b42a116210b50a0e171b58.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+   
+     {
+   "id": 1,
+   "name_category": "Winter",
+   "title": "Winter25",
+   "image": "http://archive.org/download/winter-9/winter%20%2831%29.jpg"
+ },
+     {
+   "id": 184,
+   "name_category": "Winter",
+   "title": "Winter20",
+   "image": "http://archive.org/download/winter-9/winter%20%2827%29.jpg"
+ }
+
+
+  ]
+}
