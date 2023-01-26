@@ -123,27 +123,14 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Autumn",
-      "image": "https://i.pinimg.com/736x/80/53/35/805335bb6a331718317bc5e51067437c.jpg"
+      "name_category": "iOS 16",
+      "image": "https://s2files.mobeasy.com/static/u/119603/file-119603-2431.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Summer",
-      "image": "https://i.pinimg.com/736x/c1/20/2d/c1202de3793989524e8b4ba4f1d59080.jpg"
-
-    },
-    
-    {
-      "id": 3,
-      "name_category": "Spring",
-      "image": "https://i.pinimg.com/736x/f3/08/5b/f3085b1f80b42a116210b50a0e171b58.jpg"
-
-    },
-    {
-      "id": 4,
-      "name_category": "Winter",
-      "image": "https://i.pinimg.com/736x/f3/08/5b/f3085b1f80b42a116210b50a0e171b58.jpg"
+      "name_category": "iOS Wallpaper",
+      "image": "https://s2files.mobeasy.com/static/u/119603/file-119603-924816.jpg"
 
     }
   ],
