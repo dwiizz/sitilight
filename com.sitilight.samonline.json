@@ -158,7 +158,7 @@
    "id": 1,
    "name_category": "Informasi",
    "title": "Informasi Pemutihan Terbaru 2023",
-   "image": "file:///android_asset/image/inf.png",
+   "image": "https://i.pinimg.com/736x/5c/49/4f/5c494f52a37d3f77ad3c21b6dd9d63e5.jpg",
    "description": "Berikut beberapa wilayah yang sedang melaksanakan pemutihan :",
    "link": "https://samolnas.wordpress.com/?s=pemutihan"
  },
@@ -166,7 +166,7 @@
    "id": 2,
    "name_category": "Syarat",
    "title": "Syarat dan Ketentuan",
-   "image": "file:///android_asset/image/tanya.png",
+   "image": "https://i.pinimg.com/736x/4d/7e/9d/4d7e9d9ed7899ab2e209f390bfe30874.jpg",
    "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
    "link": ""
  },
@@ -174,7 +174,7 @@
    "id": 3,
    "name_category": "Petunjuk",
    "title": "Pertanyaan Yang sering Ditanyakan",
-   "image": "file:///android_asset/image/tanya.png",
+   "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
    "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
    "link": "file:///android_asset/tanya.html"
  },
@@ -182,7 +182,7 @@
    "id": 3,
    "name_category": "Petunjuk",
    "title": "Cara Pengisian NOPOL",
-   "image": "file:///android_asset/image/tanya.png",
+   "image": "https://i.pinimg.com/736x/e6/9a/87/e69a87ce3d784b4c010c61872ceab3be.jpg",
    "description": "Pengisian NOPOL Kendaraan Harus MENGGUNAKAN HURUF BESAR.",
    "link": "file:///android_asset/tanya.html"
  },
