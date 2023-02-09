@@ -190,7 +190,7 @@
    "id": 4,
    "name_category": "Pajak",
    "title": "ACEH",
-   "image": "file:///android_asset/image/pjk.png",
+   "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
    "description": "Cek Pajak Kendaraan Provinsi ACEH",
    "link": "https://esamsat.acehprov.go.id/"
  },
@@ -198,7 +198,7 @@
    "id": 5,
    "name_category": "Pajak",
    "title": "JAWA TiMUR",
-   "image": "file:///android_asset/image/pjk.png",
+   "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
    "description": "Cek Pajak Kendaraan Provinsi JAWA TIMUR",
    "link": "https://info.dipendajatim.go.id/index.php?page=info_pkb"
  },
@@ -222,7 +222,7 @@
    "id": 8,
    "name_category": "Pajak",
    "title": "JAWA TENGAH",
-   "image": "file:///android_asset/image/pjk.png",
+   "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
    "description": "Cek Pajak Kendaraan Provinsi JAWA TENGAH",
    "link": "https://bapenda.jatengprov.go.id/info-kendaraan-bermotor/"
  },
