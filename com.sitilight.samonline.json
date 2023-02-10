@@ -166,7 +166,7 @@
    "title": "Syarat dan Ketentuan",
    "image": "https://i.pinimg.com/736x/4d/7e/9d/4d7e9d9ed7899ab2e209f390bfe30874.jpg",
    "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
-   "link": ""
+   "link": "file:///android_asset/syarat.html"
  },
  {
    "id": 3,
@@ -182,7 +182,7 @@
    "title": "Cara Pengisian NOPOL",
    "image": "https://i.pinimg.com/736x/e6/9a/87/e69a87ce3d784b4c010c61872ceab3be.jpg",
    "description": "Pengisian NOPOL Kendaraan Harus MENGGUNAKAN HURUF BESAR.",
-   "link": "file:///android_asset/tanya.html"
+   "link": "file:///android_asset/petunjuk.html"
  },
  {
    "id": 4,
