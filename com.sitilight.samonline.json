@@ -230,7 +230,7 @@
    "title": "JAWA BARAT",
    "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
    "description": "Cek Pajak Kendaraan Provinsi JAWA BARAT",
-   "link": "https://sambara.puslia.jabarprov.go.id/sambara_v2/"
+   "link": "https://bapenda.jabarprov.go.id/infopkb/"
  },
  {
    "id": 6,
@@ -254,7 +254,7 @@
    "title": "DKI JAKARTA",
    "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
    "description": "Cek Pajak Kendaraan Provinsi DKI JAKARTA",
-   "link": "https://raw.githubusercontent.com/dwiizz/sitilight/main/dki.html"
+   "link": "https://raw.githubusercontent.com/dwiizz/sitilight/main/dki.json"
  },
  {
    "id": 11,
