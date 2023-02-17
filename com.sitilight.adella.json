@@ -55,53 +55,413 @@
     }
   ],
   "Data": [
-    {
-      "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
-    {
-      "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
-      "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
+     {
+   "id": 1,
+   "name_category": "Arlida Putri",
+   "title": "    hujan duri (Arlida Putri). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/IIBJ5sRRiQ.mp3?download=Hujan%20Duri.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 2,
+   "name_category": "Dewi Purnama",
+   "title": "    cinta dan air mata (Dewi Purnama). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/HiWSNqUrTT.mp3?download=Cinta%20Dan%20Airmata%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 3,
+   "name_category": "Kiki Oktavia",
+   "title": "    goyang bang jali (Kiki Oktavia). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/WPTeRTk9SW.mp3?download=Goyang%20Bang%20Jali%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 4,
+   "name_category": "Monalisa",
+   "title": "    karang cinta (Monalisa). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/nW-4f7QEVb.mp3?download=Karang%20Cinta.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 5,
+   "name_category": "Monalisa",
+   "title": "    wedus (Monalisa). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/4fL8hsjwJr.mp3?download=Wedus%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 6,
+   "name_category": "Tasya Rosmala",
+   "title": "    goyah (Tasya Rosmala). Download mp3",
+   "image": "a",
+   "link_mp3": "https://cldup.com/44hnXs7ky2.mp3?download=Goyah.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 7,
+   "name_category": "Diana Rosita",
+   "title": "    cincin putih (Diana Rosita). Download mp3",
+   "image": "b",
+   "link_mp3": "https://cldup.com/nzhU8hgiZL.mp3?download=Cincin%20Putih.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 8,
+   "name_category": "Monalisa",
+   "title": "    ungkapan seniman (Monalisa). Download mp3",
+   "image": "b",
+   "link_mp3": "https://cldup.com/fn3ZVSe1ir.mp3?download=Ungkapan%20Seniman%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 9,
+   "name_category": "Santi F.t Mbah Pri",
+   "title": "    ngidam Pentol (Santi F.t Mbah Pri). Download mp3",
+   "image": "b",
+   "link_mp3": "https://cldup.com/T2TonHtUN9.mp3?download=Ngidam%20Pentol%20-%20Santi%20feat.%20Mbah%20Pri%20-%20OM%20Adella.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 10,
+   "name_category": "Sarah Brillian",
+   "title": "    bulan (Sarah Brillian). Download mp3",
+   "image": "b",
+   "link_mp3": "https://cldup.com/FFuzHf0zuA.mp3?download=Bulan%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 11,
+   "name_category": "Tasya Rosmala",
+   "title": "    garis merah (Tasya Rosmala). Download mp3",
+   "image": "b",
+   "link_mp3": "https://cldup.com/cxF8OkR432.mp3?download=Garis%20Merah%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 12,
+   "name_category": "Andi KDI",
+   "title": "    tum hi ho (Andi KDI). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/pGfG6Aj80B.mp3?download=Tum%20Hi%20Ho.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 13,
+   "name_category": "Merinda Anjani",
+   "title": "    bayanganmu (Merinda Anjani). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/GGm1KiqdQR.mp3?download=Bayanganmu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 14,
+   "name_category": "Monalisa",
+   "title": "    keruntuhan cinta (Monalisa). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/9KmjkTxZ8M.mp3?download=Keruntuhan%20Cinta%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 15,
+   "name_category": "Monalisa",
+   "title": "    tembang tresno (Monalisa). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/pzFwf9HsUU.mp3?download=Tembang%20Tresno.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 16,
+   "name_category": "Tasya Rosmala",
+   "title": "    keloas (Tasya Rosmala). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/rE8n07Pd7K.mp3?download=Keloas%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 17,
+   "name_category": "Vika Aprillia",
+   "title": "    Sebening embun (Vika Aprillia). Download mp3",
+   "image": "c",
+   "link_mp3": "https://cldup.com/CwnRU4uC25.mp3?download=Sebening%20Embun.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 18,
+   "name_category": "Arneta Julia",
+   "title": "    lukaku (Arneta Julia). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/l5v34n9Zwj.mp3?download=Lukaku.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 19,
+   "name_category": "Monalisa",
+   "title": "    polisi (Monalisa). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/wjAFSZPxjG.mp3?download=Polisi.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 20,
+   "name_category": "Santy Sagita",
+   "title": "    matahari (Santy Sagita). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/ylG2hKYqGF.mp3?download=Matahari%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 21,
+   "name_category": "Via Vallen",
+   "title": "    marai cemburu (Via Vallen). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/IGEoyUd8Vo.mp3?download=Marai%20Cemburu%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 22,
+   "name_category": "Vika Aprillia",
+   "title": "    ungkapan hati (Vika Aprillia). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/PAwyjQ-eu4.mp3?download=Ungkapan%20Hati.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 23,
+   "name_category": "Wiwik Sagita",
+   "title": "    bojo lali omah (Wiwik Sagita). Download mp3",
+   "image": "g",
+   "link_mp3": "https://cldup.com/7YkTAYdE4v.mp3?download=Bojo%20Lali%20Omah%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 24,
+   "name_category": "Aan Shema",
+   "title": "    lungset (Aan Shema). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/QkBKDnfrYc.mp3?download=Lungset.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 25,
+   "name_category": "Arneta Julia",
+   "title": "    tanda merah (Arneta Julia). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/Eo5PSizQP0.mp3?download=Tanda%20Merah.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 26,
+   "name_category": "Gita Cinta",
+   "title": "    kelayung layung (Gita Cinta). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/R6ytj2jUv3.mp3?download=Kelayung%20Layung.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 27,
+   "name_category": "Kiki Oktavia",
+   "title": "    rasah bali sisan (Kiki Oktavia). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/1NQTs5icaW.mp3?download=Rasah%20Bali%20Sisan%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 28,
+   "name_category": "Monalisa",
+   "title": "    bukak sitik jos (Monalisa). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/m5gKMrAAIF.mp3?download=Buka%20Sitik%20Jos%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 29,
+   "name_category": "Santy Sagita",
+   "title": "    pacar dunia akhirat (Santy Sagita). Download mp3",
+   "image": "j",
+   "link_mp3": "https://cldup.com/QlkI_vzC4O.mp3?download=Pacar%20Dunia%20Akhirat%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 30,
+   "name_category": "All Artis",
+   "title": "    musik (All Artis). Download mp3 ",
+   "image": "k",
+   "link_mp3": "https://cldup.com/z1fkC85xWE.mp3?download=Musik.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 31,
+   "name_category": "Arneta Julia",
+   "title": "    mengapa ada dusta (Arneta Julia). Download mp3",
+   "image": "k",
+   "link_mp3": "https://cldup.com/dbMibauo6l.mp3?download=Mengapa%20Ada%20Dusta.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 32,
+   "name_category": "Dewi Purnama",
+   "title": "    sejuta luka (Dewi Purnama). Download mp3",
+   "image": "k",
+   "link_mp3": "https://cldup.com/bT3ermxVfH.mp3?download=Sejuta%20Luka%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 33,
+   "name_category": "Tasya Rosmala",
+   "title": "    dermaga cinta. Download mp3",
+   "image": "k",
+   "link_mp3": "https://cldup.com/t78pQmHN0F.mp3?download=Gerry%20Feat%20Tasya%20-%20Dermaga%20Cinta%20-%20OM%20Adella.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 34,
+   "name_category": "Merinda Anjani",
+   "title": "    ikhlas (Merinda Anjani). Download mp3",
+   "image": "k",
+   "link_mp3": "https://cldup.com/GHzL0l4xa2.mp3?download=Ikhlas%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 35,
+   "name_category": "Sarah Brillian",
+   "title": "    ra ono kabare (Sarah Brillian). Download mp3",
+   "image": "k",
+   "link_mp3": "https://cldup.com/gkfQT08bMG.mp3?download=Ra%20Ono%20Kabare%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 36,
+   "name_category": "Arlida",
+   "title": "    rahmat ilahi (Arlida). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/JerU5oS09z.mp3?download=Rahmat%20Ilahi.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 37,
+   "name_category": "MC",
+   "title": "    perjuangan dan doa (MC). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/gCqa7SytMr.mp3?download=Perjuangan%20Dan%20Doa%20-%20Mc%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 38,
+   "name_category": "Mona Septiana",
+   "title": "    kapan bali (Mona Septiana). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/MeTb92NQQz.mp3?download=Kapan%20Bali%20-%20Mona%20Septiana%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 39,
+   "name_category": "Monalisa",
+   "title": "    surat biru (Monalisa). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/7dj9mS-wdz.mp3?download=Surat%20Biru%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 40,
+   "name_category": "Niken Ira",
+   "title": "    suami yang kejam (Niken Ira). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/qCID2YoIZC.mp3?download=Suami%20Yang%20Kejam.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 41,
+   "name_category": "Santy Sagita",
+   "title": "    selalu rindu (Santy Sagita). Download mp3",
+   "image": "s",
+   "link_mp3": "https://cldup.com/wfFgyZh7zX.mp3?download=Selalu%20Rindu%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 42,
+   "name_category": "Merinda Anjani",
+   "title": "    cinta yang palsu (Merinda Anjani). Download mp3",
+   "image": "t",
+   "link_mp3": "https://cldup.com/RkuSvfLgXo.mp3?download=Cinta%20Yang%20Palsu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 43,
+   "name_category": "Merinda Anjani",
+   "title": "    selimut hitam (Merinda Anjani). Download mp3",
+   "image": "t",
+   "link_mp3": "https://cldup.com/aCdNHMPGPy.mp3?download=Selimut%20Hitam%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 44,
+   "name_category": "Monalisa",
+   "title": "    mendem kangen (Monalisa). Download mp3",
+   "image": "t",
+   "link_mp3": "https://cldup.com/9A2P4_5vCp.mp3?download=Mendem%20Kangen%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 45,
+   "name_category": "Niken Ira",
+   "title": "    mimpi buruk (Niken Ira). Download mp3",
+   "image": "t",
+   "link_mp3": "https://cldup.com/ECYE3fmZUf.mp3?download=Mimpi%20Buruk.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 46,
+   "name_category": "Via Vallen",
+   "title": "    di sayidan (Via Vallen). Download mp3",
+   "image": "t",
+   "link_mp3": "https://cldup.com/qJSw0l44dV.mp3?download=Di%20Sayidan%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 47,
+   "name_category": " Eny Mona Septiana",
+   "title": "    TKW ( Eny Mona Septiana). Download mp3",
+   "image": "w",
+   "link_mp3": "https://cldup.com/rMM2cp37XA.mp3?download=TKW%20-%20Eny%20Mona%20Septiana%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 48,
+   "name_category": " Santi F.t Kiki",
+   "title": "    metu meneh ( Santi F.t Kiki). Download mp3",
+   "image": "w",
+   "link_mp3": "https://cldup.com/eG-o6Id_5K.mp3?download=Metu%20Meneh%20-%20Santi%20feat.%20Uki%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 49,
+   "name_category": "Diana Rosita",
+   "title": "    tak pernah (Diana Rosita). Download mp3",
+   "image": "w",
+   "link_mp3": "https://cldup.com/mGvsIwzJq3.mp3?download=Tak%20Pernah.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 50,
+   "name_category": "Lilis Novita",
+   "title": "    bojoku lungo (Lilis Novita). Download mp3",
+   "image": "w",
+   "link_mp3": "https://cldup.com/ZfEMSMxdzc.mp3?download=Bojoku%20Lungo%20-%20Lilis%20Novita%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 51,
+   "name_category": "Wiwik Sagita",
+   "title": "    gak kuat (Wiwik Sagita). Download mp3",
+   "image": "w",
+   "link_mp3": "https://cldup.com/jIIKZUK7i4.mp3?download=Gak%20Kuat%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "k"
+ }
   ]
 }
