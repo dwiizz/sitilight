@@ -57,411 +57,707 @@
   "Data": [
      {
    "id": 1,
-   "name_category": "Arlida Putri",
-   "title": "    hujan duri (Arlida Putri). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/IIBJ5sRRiQ.mp3?download=Hujan%20Duri.mp3",
-   "lyrics": "a"
+   "name_category": "Yeni Inka",
+   "title": "SEWU KUTHO - YenI inka ft.  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/SEWU%20KUTHO%20-%20YenI%20inka%20ft.%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 2,
-   "name_category": "Dewi Purnama",
-   "title": "    cinta dan air mata (Dewi Purnama). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/HiWSNqUrTT.mp3?download=Cinta%20Dan%20Airmata%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
+   "name_category": "Lusyana Jelita",
+   "title": "KERANDA CINTA - Lusyana Jelita. ",
+   "image": "https://lagitrending.com/wp-content/uploads/2021/07/Penyanyi-Dangdut-Yang-Sering-Bernyanyi-Bersama-OM-Adella-2-1.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KERANDA%20CINTA%20-%20Lusyana%20Jelita.mp3",
+   "lyrics": ""
  },
  {
    "id": 3,
-   "name_category": "Kiki Oktavia",
-   "title": "    goyang bang jali (Kiki Oktavia). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/WPTeRTk9SW.mp3?download=Goyang%20Bang%20Jali%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
-   "lyrics": "w"
+   "name_category": "Sherly KDI",
+   "title": "1001 HARI - Sherly KDI  ",
+   "image": "https://i1.sndcdn.com/artworks-C0We7Ey4XgNA8Z0W-Y3nw4g-t500x500.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/1001%20HARI%20-%20Sherly%20KDI%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 4,
-   "name_category": "Monalisa",
-   "title": "    karang cinta (Monalisa). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/nW-4f7QEVb.mp3?download=Karang%20Cinta.mp3",
-   "lyrics": "t"
+   "name_category": "Difarina Indra",
+   "title": "DUDA ARABAN - Difarina Indra. ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/DUDA%20ARABAN%20-%20Difarina%20Indra.mp3",
+   "lyrics": ""
  },
  {
    "id": 5,
-   "name_category": "Monalisa",
-   "title": "    wedus (Monalisa). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/4fL8hsjwJr.mp3?download=Wedus%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "s"
+   "name_category": "Nurma KDI",
+   "title": "MENYESAL - Nurma Paejah  ",
+   "image": "https://cdns-images.dzcdn.net/images/artist/bb3907a43eed8f8cb52b66ef9076457e/500x500.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/MENYESAL%20-%20Nurma%20Paejah%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 6,
-   "name_category": "Tasya Rosmala",
-   "title": "    goyah (Tasya Rosmala). Download mp3",
-   "image": "a",
-   "link_mp3": "https://cldup.com/44hnXs7ky2.mp3?download=Goyah.mp3",
-   "lyrics": "k"
+   "name_category": "Lala Widy",
+   "title": "DAMAR OPO LILIN - Lala Widy. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/08/25/1776779966.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/DAMAR%20OPO%20LILIN%20-%20Lala%20Widy.mp3",
+   "lyrics": ""
  },
  {
    "id": 7,
-   "name_category": "Diana Rosita",
-   "title": "    cincin putih (Diana Rosita). Download mp3",
-   "image": "b",
-   "link_mp3": "https://cldup.com/nzhU8hgiZL.mp3?download=Cincin%20Putih.mp3",
-   "lyrics": "j"
+   "name_category": "Arief",
+   "title": "Dalam Gelak Ku Menangis – Arief. ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Dalam%20Gelak%20Ku%20Menangis%20%E2%80%93%20Arief.mp3",
+   "lyrics": ""
  },
  {
    "id": 8,
-   "name_category": "Monalisa",
-   "title": "    ungkapan seniman (Monalisa). Download mp3",
-   "image": "b",
-   "link_mp3": "https://cldup.com/fn3ZVSe1ir.mp3?download=Ungkapan%20Seniman%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "g"
+   "name_category": "Fendik",
+   "title": "PERAWAN DESA - Fendik ft Lala Widy. ",
+   "image": "https://i.scdn.co/image/ab67616d0000b273083009dd2765ec8e26b4813b",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/PERAWAN%20DESA%20-%20Fendik%20ft%20Lala%20Widy.mp3",
+   "lyrics": ""
  },
  {
    "id": 9,
-   "name_category": "Santi F.t Mbah Pri",
-   "title": "    ngidam Pentol (Santi F.t Mbah Pri). Download mp3",
-   "image": "b",
-   "link_mp3": "https://cldup.com/T2TonHtUN9.mp3?download=Ngidam%20Pentol%20-%20Santi%20feat.%20Mbah%20Pri%20-%20OM%20Adella.mp3",
-   "lyrics": "c"
+   "name_category": "Difarina Indra",
+   "title": "Rungkad Ft Om Adella ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Rungkad-Difarina%20Indra.mp3",
+   "lyrics": ""
  },
  {
    "id": 10,
-   "name_category": "Sarah Brillian",
-   "title": "    bulan (Sarah Brillian). Download mp3",
-   "image": "b",
-   "link_mp3": "https://cldup.com/FFuzHf0zuA.mp3?download=Bulan%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
-   "lyrics": "a"
+   "name_category": "Tasya Rosmala",
+   "title": "DALAN ANYAR - Tasya Rosmala  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/DALAN%20ANYAR%20-%20Tasya%20Rosmala%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 11,
-   "name_category": "Tasya Rosmala",
-   "title": "    garis merah (Tasya Rosmala). Download mp3",
-   "image": "b",
-   "link_mp3": "https://cldup.com/cxF8OkR432.mp3?download=Garis%20Merah%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
+   "name_category": "Nurma KDI",
+   "title": "PECAH SERIBU - Nurma  ",
+   "image": "https://cdns-images.dzcdn.net/images/artist/bb3907a43eed8f8cb52b66ef9076457e/500x500.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/PECAH%20SERIBU%20-%20Nurma%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 12,
-   "name_category": "Andi KDI",
-   "title": "    tum hi ho (Andi KDI). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/pGfG6Aj80B.mp3?download=Tum%20Hi%20Ho.mp3",
-   "lyrics": "w"
+   "name_category": "ALL ARTIS",
+   "title": "HUTANG -ALL ARTIS. ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/HUTANG%20-ALL%20ARTIS.mp3",
+   "lyrics": ""
  },
  {
    "id": 13,
-   "name_category": "Merinda Anjani",
-   "title": "    bayanganmu (Merinda Anjani). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/GGm1KiqdQR.mp3?download=Bayanganmu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
-   "lyrics": "t"
+   "name_category": "Yeni Inka",
+   "title": "KANGEN SWARANE - Yeni Inka. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KANGEN%20SWARANE%20-%20Yeni%20Inka.mp3",
+   "lyrics": ""
  },
  {
    "id": 14,
-   "name_category": "Monalisa",
-   "title": "    keruntuhan cinta (Monalisa). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/9KmjkTxZ8M.mp3?download=Keruntuhan%20Cinta%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "s"
+   "name_category": "Difarina Indra",
+   "title": "Kesucian Ati - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Kesucian%20Ati%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 15,
-   "name_category": "Monalisa",
-   "title": "    tembang tresno (Monalisa). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/pzFwf9HsUU.mp3?download=Tembang%20Tresno.mp3",
-   "lyrics": "k"
+   "name_category": "Difarina Indra",
+   "title": "KALIURANG Mantap - Difarina Indra. ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KALIURANG%20Mantap%20-%20Difarina%20Indra.mp3",
+   "lyrics": ""
  },
  {
    "id": 16,
-   "name_category": "Tasya Rosmala",
-   "title": "    keloas (Tasya Rosmala). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/rE8n07Pd7K.mp3?download=Keloas%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
-   "lyrics": "j"
+   "name_category": "Yeni Inka",
+   "title": "LAYANG KANGEN - Yeni Inka  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/LAYANG%20KANGEN%20-%20Yeni%20Inka%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 17,
-   "name_category": "Vika Aprillia",
-   "title": "    Sebening embun (Vika Aprillia). Download mp3",
-   "image": "c",
-   "link_mp3": "https://cldup.com/CwnRU4uC25.mp3?download=Sebening%20Embun.mp3",
-   "lyrics": "g"
+   "name_category": "Difarina Indra",
+   "title": "SUDAH TAK CINTA - Difarina  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/SUDAH%20TAK%20CINTA%20-%20Difarina%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 18,
-   "name_category": "Arneta Julia",
-   "title": "    lukaku (Arneta Julia). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/l5v34n9Zwj.mp3?download=Lukaku.mp3",
-   "lyrics": "c"
+   "name_category": "Difarina Indra",
+   "title": "ADA UNTUKMU - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/ADA%20UNTUKMU%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 19,
-   "name_category": "Monalisa",
-   "title": "    polisi (Monalisa). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/wjAFSZPxjG.mp3?download=Polisi.mp3",
-   "lyrics": "a"
+   "name_category": "Yeni Inka",
+   "title": "DURI DURI - Yeni Inka ft Fendik  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/DURI%20DURI%20-%20Yeni%20Inka%20ft%20Fendik%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 20,
-   "name_category": "Santy Sagita",
-   "title": "    matahari (Santy Sagita). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/ylG2hKYqGF.mp3?download=Matahari%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
+   "name_category": "Yeni Inka",
+   "title": "RA NOMPO BALIMU - Yeni Inka. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/RA%20NOMPO%20BALIMU%20-%20Yeni%20Inka.mp3",
+   "lyrics": ""
  },
  {
    "id": 21,
-   "name_category": "Via Vallen",
-   "title": "    marai cemburu (Via Vallen). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/IGEoyUd8Vo.mp3?download=Marai%20Cemburu%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
-   "lyrics": "w"
+   "name_category": "Tasya Rosmala",
+   "title": "CINTAKU - Tasya ft Fendik  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/CINTAKU%20-%20Tasya%20ft%20Fendik%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 22,
-   "name_category": "Vika Aprillia",
-   "title": "    ungkapan hati (Vika Aprillia). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/PAwyjQ-eu4.mp3?download=Ungkapan%20Hati.mp3",
-   "lyrics": "t"
+   "name_category": "Fendik",
+   "title": "CINTA & AIR MATA - Fendik ft Difarina. ",
+   "image": "https://i.scdn.co/image/ab67616d0000b273083009dd2765ec8e26b4813b",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/CINTA%20%26%20AIR%20MATA%20-%20Fendik%20ft%20Difarina.mp3",
+   "lyrics": ""
  },
  {
    "id": 23,
-   "name_category": "Wiwik Sagita",
-   "title": "    bojo lali omah (Wiwik Sagita). Download mp3",
-   "image": "g",
-   "link_mp3": "https://cldup.com/7YkTAYdE4v.mp3?download=Bojo%20Lali%20Omah%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp3",
-   "lyrics": "s"
+   "name_category": "Arneta Julia",
+   "title": "SENYUM & HATIMU - Arneta  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x5:700x587/x/photo/2021/08/29/928026747.png",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/SENYUM%20%26%20HATIMU%20-%20Arneta%20Adella.mp3",
+   "lyrics": ""
  },
  {
    "id": 24,
+   "name_category": "Lusyana Jelita",
+   "title": "CINCIN PUTIH - Lusyana Jelita  ",
+   "image": "https://lagitrending.com/wp-content/uploads/2021/07/Penyanyi-Dangdut-Yang-Sering-Bernyanyi-Bersama-OM-Adella-2-1.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/CINCIN%20PUTIH%20-%20Lusyana%20Jelita%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 25,
+   "name_category": "Yeni Inka",
+   "title": "LAUT - Yeni Inka ft Fendik  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/LAUT%20-%20Yeni%20Inka%20ft%20Fendik%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 26,
+   "name_category": "Yeni Inka",
+   "title": "Yeni Inka MANGKU PUREL. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Yeni%20Inka%20MANGKU%20PUREL.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 27,
+   "name_category": "Tasya Rosmala",
+   "title": "MEMANDANGMU - Tasya Rosmala. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/MEMANDANGMU%20-%20Tasya%20Rosmala.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 28,
+   "name_category": "Difarina Indra",
+   "title": "TKW - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/TKW%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 29,
+   "name_category": "ALL ARTIS",
+   "title": "KOTA SANTRI - ALL ARTIS. ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KOTA%20SANTRI%20-%20ALL%20ARTIS.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 30,
+   "name_category": "Difarina Indra",
+   "title": "RUNTAH - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/RUNTAH%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 31,
+   "name_category": "Nurma KDI",
+   "title": "AIR MATA PERPISAHAN - Nurma KDI. ",
+   "image": "https://cdns-images.dzcdn.net/images/artist/bb3907a43eed8f8cb52b66ef9076457e/500x500.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/AIR%20MATA%20PERPISAHAN%20-%20Nurma%20KDI.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 32,
+   "name_category": "Difarina Indra",
+   "title": "INFO MASZEHH - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/INFO%20MASZEHH%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 33,
+   "name_category": "Difarina Indra",
+   "title": "SATRU 2 - Difarina ft Fendik  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/SATRU%202%20-%20Difarina%20ft%20Fendik%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 34,
+   "name_category": "Difarina Indra",
+   "title": "CINTA SAMPAI MATI 2 - Difarina. ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/CINTA%20SAMPAI%20MATI%202%20-%20Difarina.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 35,
+   "name_category": "Difarina Indra",
+   "title": "KOK ISO YO - Difarina Indra  ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KOK%20ISO%20YO%20-%20Difarina%20Indra%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 36,
+   "name_category": "Arlida Putri",
+   "title": "KLEBUS - Arlida Putri  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/11/2552495657.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/KLEBUS%20-%20Arlida%20Putri%20Adella.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 37,
+   "name_category": "Difarina Indra",
+   "title": "AKU CINTA KAMU - Difarina ft Fendik. ",
+   "image": "https://images.solopos.com/2022/09/18Difarina-Indra-Adella-Youtube-Henny-Adella.jpg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/AKU%20CINTA%20KAMU%20-%20Difarina%20ft%20Fendik.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 38,
    "name_category": "Aan Shema",
-   "title": "    lungset (Aan Shema). Download mp3",
-   "image": "j",
+   "title": "lungset (Aan Shema).  ",
+   "image": "https://cdns-images.dzcdn.net/images/cover/1ddcbf5535fe3ad8b7515062672bc382/264x264.jpg",
    "link_mp3": "https://cldup.com/QkBKDnfrYc.mp3?download=Lungset.mp3",
    "lyrics": "k"
  },
  {
-   "id": 25,
+   "id": 39,
    "name_category": "Arneta Julia",
-   "title": "    tanda merah (Arneta Julia). Download mp3",
-   "image": "j",
+   "title": "tanda merah (Arneta Julia).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x5:700x587/x/photo/2021/08/29/928026747.png",
    "link_mp3": "https://cldup.com/Eo5PSizQP0.mp3?download=Tanda%20Merah.mp3",
    "lyrics": "j"
  },
  {
-   "id": 26,
-   "name_category": "Gita Cinta",
-   "title": "    kelayung layung (Gita Cinta). Download mp3",
-   "image": "j",
-   "link_mp3": "https://cldup.com/R6ytj2jUv3.mp3?download=Kelayung%20Layung.mp3",
-   "lyrics": "g"
- },
- {
-   "id": 27,
-   "name_category": "Kiki Oktavia",
-   "title": "    rasah bali sisan (Kiki Oktavia). Download mp3",
-   "image": "j",
-   "link_mp3": "https://cldup.com/1NQTs5icaW.mp3?download=Rasah%20Bali%20Sisan%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
-   "lyrics": "c"
- },
- {
-   "id": 28,
-   "name_category": "Monalisa",
-   "title": "    bukak sitik jos (Monalisa). Download mp3",
-   "image": "j",
-   "link_mp3": "https://cldup.com/m5gKMrAAIF.mp3?download=Buka%20Sitik%20Jos%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "a"
- },
- {
-   "id": 29,
-   "name_category": "Santy Sagita",
-   "title": "    pacar dunia akhirat (Santy Sagita). Download mp3",
-   "image": "j",
-   "link_mp3": "https://cldup.com/QlkI_vzC4O.mp3?download=Pacar%20Dunia%20Akhirat%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
- },
- {
-   "id": 30,
-   "name_category": "All Artis",
-   "title": "    musik (All Artis). Download mp3 ",
-   "image": "k",
-   "link_mp3": "https://cldup.com/z1fkC85xWE.mp3?download=Musik.mp3",
+   "id": 40,
+   "name_category": "Andi KDI",
+   "title": "tum hi ho (Andi KDI).  ",
+   "image": "https://i1.sndcdn.com/artworks-000573425393-p59qu0-t500x500.jpg",
+   "link_mp3": "https://cldup.com/pGfG6Aj80B.mp3?download=Tum%20Hi%20Ho.mp3",
    "lyrics": "w"
  },
  {
-   "id": 31,
-   "name_category": "Arneta Julia",
-   "title": "    mengapa ada dusta (Arneta Julia). Download mp3",
-   "image": "k",
-   "link_mp3": "https://cldup.com/dbMibauo6l.mp3?download=Mengapa%20Ada%20Dusta.mp3",
-   "lyrics": "t"
- },
- {
-   "id": 32,
-   "name_category": "Dewi Purnama",
-   "title": "    sejuta luka (Dewi Purnama). Download mp3",
-   "image": "k",
-   "link_mp3": "https://cldup.com/bT3ermxVfH.mp3?download=Sejuta%20Luka%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
-   "lyrics": "s"
- },
- {
-   "id": 33,
-   "name_category": "Tasya Rosmala",
-   "title": "    dermaga cinta. Download mp3",
-   "image": "k",
-   "link_mp3": "https://cldup.com/t78pQmHN0F.mp3?download=Gerry%20Feat%20Tasya%20-%20Dermaga%20Cinta%20-%20OM%20Adella.mp3",
-   "lyrics": "k"
- },
- {
-   "id": 34,
-   "name_category": "Merinda Anjani",
-   "title": "    ikhlas (Merinda Anjani). Download mp3",
-   "image": "k",
-   "link_mp3": "https://cldup.com/GHzL0l4xa2.mp3?download=Ikhlas%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
-   "lyrics": "j"
- },
- {
-   "id": 35,
-   "name_category": "Sarah Brillian",
-   "title": "    ra ono kabare (Sarah Brillian). Download mp3",
-   "image": "k",
-   "link_mp3": "https://cldup.com/gkfQT08bMG.mp3?download=Ra%20Ono%20Kabare%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
-   "lyrics": "g"
- },
- {
-   "id": 36,
-   "name_category": "Arlida",
-   "title": "    rahmat ilahi (Arlida). Download mp3",
-   "image": "s",
-   "link_mp3": "https://cldup.com/JerU5oS09z.mp3?download=Rahmat%20Ilahi.mp3",
-   "lyrics": "c"
- },
- {
-   "id": 37,
+   "id": 41,
    "name_category": "MC",
-   "title": "    perjuangan dan doa (MC). Download mp3",
-   "image": "s",
+   "title": "perjuangan dan doa (MC).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
    "link_mp3": "https://cldup.com/gCqa7SytMr.mp3?download=Perjuangan%20Dan%20Doa%20-%20Mc%20OM%20Adella.mp3",
    "lyrics": "a"
  },
  {
-   "id": 38,
-   "name_category": "Mona Septiana",
-   "title": "    kapan bali (Mona Septiana). Download mp3",
-   "image": "s",
-   "link_mp3": "https://cldup.com/MeTb92NQQz.mp3?download=Kapan%20Bali%20-%20Mona%20Septiana%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
- },
- {
-   "id": 39,
-   "name_category": "Monalisa",
-   "title": "    surat biru (Monalisa). Download mp3",
-   "image": "s",
-   "link_mp3": "https://cldup.com/7dj9mS-wdz.mp3?download=Surat%20Biru%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "w"
- },
- {
-   "id": 40,
-   "name_category": "Niken Ira",
-   "title": "    suami yang kejam (Niken Ira). Download mp3",
-   "image": "s",
-   "link_mp3": "https://cldup.com/qCID2YoIZC.mp3?download=Suami%20Yang%20Kejam.mp3",
-   "lyrics": "t"
- },
- {
-   "id": 41,
-   "name_category": "Santy Sagita",
-   "title": "    selalu rindu (Santy Sagita). Download mp3",
-   "image": "s",
-   "link_mp3": "https://cldup.com/wfFgyZh7zX.mp3?download=Selalu%20Rindu%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
-   "lyrics": "s"
- },
- {
    "id": 42,
-   "name_category": "Merinda Anjani",
-   "title": "    cinta yang palsu (Merinda Anjani). Download mp3",
-   "image": "t",
-   "link_mp3": "https://cldup.com/RkuSvfLgXo.mp3?download=Cinta%20Yang%20Palsu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
-   "lyrics": "k"
+   "name_category": "Kiki Oktavia",
+   "title": "goyang bang jali (Kiki Oktavia).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/WPTeRTk9SW.mp3?download=Goyang%20Bang%20Jali%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
  },
  {
    "id": 43,
    "name_category": "Merinda Anjani",
-   "title": "    selimut hitam (Merinda Anjani). Download mp3",
-   "image": "t",
-   "link_mp3": "https://cldup.com/aCdNHMPGPy.mp3?download=Selimut%20Hitam%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "title": "ikhlas (Merinda Anjani).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/GHzL0l4xa2.mp3?download=Ikhlas%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
    "lyrics": "j"
  },
  {
    "id": 44,
-   "name_category": "Monalisa",
-   "title": "    mendem kangen (Monalisa). Download mp3",
-   "image": "t",
-   "link_mp3": "https://cldup.com/9A2P4_5vCp.mp3?download=Mendem%20Kangen%20-%20Monalisa%20-%20OM%20Adella.mp3",
-   "lyrics": "g"
- },
- {
-   "id": 45,
-   "name_category": "Niken Ira",
-   "title": "    mimpi buruk (Niken Ira). Download mp3",
-   "image": "t",
-   "link_mp3": "https://cldup.com/ECYE3fmZUf.mp3?download=Mimpi%20Buruk.mp3",
-   "lyrics": "c"
- },
- {
-   "id": 46,
-   "name_category": "Via Vallen",
-   "title": "    di sayidan (Via Vallen). Download mp3",
-   "image": "t",
-   "link_mp3": "https://cldup.com/qJSw0l44dV.mp3?download=Di%20Sayidan%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
-   "lyrics": "a"
- },
- {
-   "id": 47,
-   "name_category": " Eny Mona Septiana",
-   "title": "    TKW ( Eny Mona Septiana). Download mp3",
-   "image": "w",
-   "link_mp3": "https://cldup.com/rMM2cp37XA.mp3?download=TKW%20-%20Eny%20Mona%20Septiana%20-%20OM%20Adella.mp3",
-   "lyrics": "b"
- },
- {
-   "id": 48,
-   "name_category": " Santi F.t Kiki",
-   "title": "    metu meneh ( Santi F.t Kiki). Download mp3",
-   "image": "w",
-   "link_mp3": "https://cldup.com/eG-o6Id_5K.mp3?download=Metu%20Meneh%20-%20Santi%20feat.%20Uki%20-%20OM%20Adella.mp3",
-   "lyrics": "w"
- },
- {
-   "id": 49,
-   "name_category": "Diana Rosita",
-   "title": "    tak pernah (Diana Rosita). Download mp3",
-   "image": "w",
-   "link_mp3": "https://cldup.com/mGvsIwzJq3.mp3?download=Tak%20Pernah.mp3",
-   "lyrics": "t"
- },
- {
-   "id": 50,
    "name_category": "Lilis Novita",
-   "title": "    bojoku lungo (Lilis Novita). Download mp3",
-   "image": "w",
+   "title": "bojoku lungo (Lilis Novita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
    "link_mp3": "https://cldup.com/ZfEMSMxdzc.mp3?download=Bojoku%20Lungo%20-%20Lilis%20Novita%20-%20OM%20Adella.mp3",
    "lyrics": "s"
  },
  {
-   "id": 51,
+   "id": 45,
+   "name_category": "Merinda Anjani",
+   "title": "selimut hitam (Merinda Anjani).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/aCdNHMPGPy.mp3?download=Selimut%20Hitam%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 46,
+   "name_category": "Diana Rosita",
+   "title": "cincin putih (Diana Rosita).  ",
+   "image": "https://ytimg.googleusercontent.com/vi/Va9_jMZhOLk/mqdefault.jpg",
+   "link_mp3": "https://cldup.com/nzhU8hgiZL.mp3?download=Cincin%20Putih.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 47,
+   "name_category": "Diana Rosita",
+   "title": "tak pernah (Diana Rosita).  ",
+   "image": "https://ytimg.googleusercontent.com/vi/Va9_jMZhOLk/mqdefault.jpg",
+   "link_mp3": "https://cldup.com/mGvsIwzJq3.mp3?download=Tak%20Pernah.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 48,
    "name_category": "Wiwik Sagita",
-   "title": "    gak kuat (Wiwik Sagita). Download mp3",
-   "image": "w",
-   "link_mp3": "https://cldup.com/jIIKZUK7i4.mp3?download=Gak%20Kuat%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp3",
+   "title": "gak kuat (Wiwik Sagita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/jIIKZUK7i4.mp3?download=Gak%20Kuat%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp",
+   "lyrics": ""
+ },
+ {
+   "id": 49,
+   "name_category": "Via Vallen",
+   "title": "di sayidan (Via Vallen).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/qJSw0l44dV.mp3?download=Di%20Sayidan%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 50,
+   "name_category": "Tasya Rosmala",
+   "title": "goyah (Tasya Rosmala).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "https://cldup.com/44hnXs7ky2.mp3?download=Goyah.mp3",
    "lyrics": "k"
+ },
+ {
+   "id": 51,
+   "name_category": "Santy Sagita",
+   "title": "selalu rindu (Santy Sagita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/wfFgyZh7zX.mp3?download=Selalu%20Rindu%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 52,
+   "name_category": "Arlida Putri",
+   "title": "hujan duri (Arlida Putri).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/11/2552495657.jpg",
+   "link_mp3": "https://cldup.com/IIBJ5sRRiQ.mp3?download=Hujan%20Duri.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 53,
+   "name_category": "Monalisa",
+   "title": "mendem kangen (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/9A2P4_5vCp.mp3?download=Mendem%20Kangen%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 54,
+   "name_category": "Arneta Julia",
+   "title": "mengapa ada dusta (Arneta Julia).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x5:700x587/x/photo/2021/08/29/928026747.png",
+   "link_mp3": "https://cldup.com/dbMibauo6l.mp3?download=Mengapa%20Ada%20Dusta.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 55,
+   "name_category": "Niken Ira",
+   "title": "suami yang kejam (Niken Ira).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/qCID2YoIZC.mp3?download=Suami%20Yang%20Kejam.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 56,
+   "name_category": "Mona Septiana",
+   "title": "kapan bali (Mona Septiana).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/MeTb92NQQz.mp3?download=Kapan%20Bali%20-%20Mona%20Septiana%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 57,
+   "name_category": "Santi F.t Kiki",
+   "title": "metu meneh ( Santi F.t Kiki).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/eG-o6Id_5K.mp3?download=Metu%20Meneh%20-%20Santi%20feat.%20Uki%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 58,
+   "name_category": "Niken Ira",
+   "title": "mimpi buruk (Niken Ira).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/ECYE3fmZUf.mp3?download=Mimpi%20Buruk.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 59,
+   "name_category": "Monalisa",
+   "title": "polisi (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/wjAFSZPxjG.mp3?download=Polisi.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 60,
+   "name_category": "Monalisa",
+   "title": "bukak sitik jos (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/m5gKMrAAIF.mp3?download=Buka%20Sitik%20Jos%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 61,
+   "name_category": "Monalisa",
+   "title": "keruntuhan cinta (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/9KmjkTxZ8M.mp3?download=Keruntuhan%20Cinta%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 62,
+   "name_category": "ALL ARTIS",
+   "title": "musik (All Artis).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/z1fkC85xWE.mp3?download=Musik.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 63,
+   "name_category": "Monalisa",
+   "title": "wedus (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/4fL8hsjwJr.mp3?download=Wedus%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 64,
+   "name_category": "Monalisa",
+   "title": "karang cinta (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/nW-4f7QEVb.mp3?download=Karang%20Cinta.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 65,
+   "name_category": "Tasya Rosmala",
+   "title": "keloas (Tasya Rosmala).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "https://cldup.com/rE8n07Pd7K.mp3?download=Keloas%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
+   "lyrics": "j"
+ },
+ {
+   "id": 66,
+   "name_category": "Eny Mona Septiana",
+   "title": "TKW ( Eny Mona Septiana).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/rMM2cp37XA.mp3?download=TKW%20-%20Eny%20Mona%20Septiana%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 67,
+   "name_category": "Arlida Putri",
+   "title": "rahmat ilahi (Arlida).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/11/2552495657.jpg",
+   "link_mp3": "https://cldup.com/JerU5oS09z.mp3?download=Rahmat%20Ilahi.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 68,
+   "name_category": "Kiki Oktavia",
+   "title": "rasah bali sisan (Kiki Oktavia).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/1NQTs5icaW.mp3?download=Rasah%20Bali%20Sisan%20-%20Kiki%20Oktavia%20-%20OM%20Adella.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 69,
+   "name_category": "Santy Sagita",
+   "title": "matahari (Santy Sagita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/ylG2hKYqGF.mp3?download=Matahari%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 70,
+   "name_category": "Vika Aprillia",
+   "title": "ungkapan hati (Vika Aprillia).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/PAwyjQ-eu4.mp3?download=Ungkapan%20Hati.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 71,
+   "name_category": "Gita Cinta",
+   "title": "kelayung layung (Gita Cinta).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/R6ytj2jUv3.mp3?download=Kelayung%20Layung.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 72,
+   "name_category": "Dewi Purnama",
+   "title": "cinta dan air mata (Dewi Purnama).  ",
+   "image": "https://i1.sndcdn.com/artworks-JfMMua14rjaM-0-t500x500.png",
+   "link_mp3": "https://cldup.com/HiWSNqUrTT.mp3?download=Cinta%20Dan%20Airmata%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 73,
+   "name_category": "Sarah Brillian",
+   "title": "ra ono kabare (Sarah Brillian).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/gkfQT08bMG.mp3?download=Ra%20Ono%20Kabare%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 74,
+   "name_category": "Sarah Brillian",
+   "title": "bulan (Sarah Brillian).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/FFuzHf0zuA.mp3?download=Bulan%20-%20Sarah%20Brillian%20-%20OM%20Adella.mp3",
+   "lyrics": "a"
+ },
+ {
+   "id": 75,
+   "name_category": "Tasya Rosmala",
+   "title": "garis merah (Tasya Rosmala).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "https://cldup.com/cxF8OkR432.mp3?download=Garis%20Merah%20-%20Tasya%20Rosmala%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 76,
+   "name_category": "Monalisa",
+   "title": "ungkapan seniman (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/fn3ZVSe1ir.mp3?download=Ungkapan%20Seniman%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 77,
+   "name_category": "Dewi Purnama",
+   "title": "sejuta luka (Dewi Purnama).  ",
+   "image": "https://i1.sndcdn.com/artworks-JfMMua14rjaM-0-t500x500.png",
+   "link_mp3": "https://cldup.com/bT3ermxVfH.mp3?download=Sejuta%20Luka%20-%20Dewi%20Purnama%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 78,
+   "name_category": "Via Vallen",
+   "title": "marai cemburu (Via Vallen).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/IGEoyUd8Vo.mp3?download=Marai%20Cemburu%20-%20Via%20Vallen%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
+ },
+ {
+   "id": 79,
+   "name_category": "Monalisa",
+   "title": "tembang tresno (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/pzFwf9HsUU.mp3?download=Tembang%20Tresno.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 80,
+   "name_category": "Merinda Anjani",
+   "title": "bayanganmu (Merinda Anjani).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/GGm1KiqdQR.mp3?download=Bayanganmu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "t"
+ },
+ {
+   "id": 81,
+   "name_category": "Santi F.t Mbah Pri",
+   "title": "ngidam Pentol (Santi F.t Mbah Pri).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/T2TonHtUN9.mp3?download=Ngidam%20Pentol%20-%20Santi%20feat.%20Mbah%20Pri%20-%20OM%20Adella.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 82,
+   "name_category": "Wiwik Sagita",
+   "title": "bojo lali omah (Wiwik Sagita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/7YkTAYdE4v.mp3?download=Bojo%20Lali%20Omah%20-%20Wiwik%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "s"
+ },
+ {
+   "id": 83,
+   "name_category": "Tasya Rosmala",
+   "title": "dermaga cinta.  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/11/20/4106691361.jpg",
+   "link_mp3": "https://cldup.com/t78pQmHN0F.mp3?download=Gerry%20Feat%20Tasya%20-%20Dermaga%20Cinta%20-%20OM%20Adella.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 84,
+   "name_category": "Vika Aprillia",
+   "title": "Sebening embun (Vika Aprillia).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/CwnRU4uC25.mp3?download=Sebening%20Embun.mp3",
+   "lyrics": "g"
+ },
+ {
+   "id": 85,
+   "name_category": "Merinda Anjani",
+   "title": "cinta yang palsu (Merinda Anjani).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/RkuSvfLgXo.mp3?download=Cinta%20Yang%20Palsu%20-%20Merinda%20Anjani%20-%20OM%20Adella.mp3",
+   "lyrics": "k"
+ },
+ {
+   "id": 86,
+   "name_category": "Arneta Julia",
+   "title": "lukaku (Arneta Julia).  ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x5:700x587/x/photo/2021/08/29/928026747.png",
+   "link_mp3": "https://cldup.com/l5v34n9Zwj.mp3?download=Lukaku.mp3",
+   "lyrics": "c"
+ },
+ {
+   "id": 87,
+   "name_category": "Santy Sagita",
+   "title": "pacar dunia akhirat (Santy Sagita).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/QlkI_vzC4O.mp3?download=Pacar%20Dunia%20Akhirat%20-%20Santy%20Sagita%20-%20OM%20Adella.mp3",
+   "lyrics": "b"
+ },
+ {
+   "id": 88,
+   "name_category": "Monalisa",
+   "title": "surat biru (Monalisa).  ",
+   "image": "https://blog-imgs-148.fc2.com/g/o/p/gopedia/2022052508075832c.jpg",
+   "link_mp3": "https://cldup.com/7dj9mS-wdz.mp3?download=Surat%20Biru%20-%20Monalisa%20-%20OM%20Adella.mp3",
+   "lyrics": "w"
  }
   ]
 }
