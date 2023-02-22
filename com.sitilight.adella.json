@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
+      "switch_banner_natives_ads":"0",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -55,6 +55,15 @@
     }
   ],
   "Data": [
+    
+    {
+   "id": 26,
+   "name_category": "Yeni Inka",
+   "title": "MANGKU PUREL. ",
+   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
+   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Yeni%20Inka%20MANGKU%20PUREL.mp3",
+   "lyrics": ""
+ },
      {
    "id": 1,
    "name_category": "Yeni Inka",
@@ -255,14 +264,7 @@
    "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/LAUT%20-%20Yeni%20Inka%20ft%20Fendik%20Adella.mp3",
    "lyrics": ""
  },
- {
-   "id": 26,
-   "name_category": "Yeni Inka",
-   "title": "Yeni Inka MANGKU PUREL. ",
-   "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/30/3312762281.jpeg",
-   "link_mp3": "http://archive.org/download/damar-opo-lilin-lala-widy/Yeni%20Inka%20MANGKU%20PUREL.mp3",
-   "lyrics": ""
- },
+ 
  {
    "id": 27,
    "name_category": "Tasya Rosmala",
