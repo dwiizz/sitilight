@@ -1,0 +1,99 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_admob":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"123",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+    }
+  ],
+  "Data": [
+    {
+   "id": 1,
+   "name_category": "Juice WRLD",
+   "title": "Face 2 Face",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/12/Juice-WRLD-Face-2-Face-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/21849/",
+   "lyrics": ""
+ },
+ {
+   "id": 2,
+   "name_category": "Juice WRLD",
+   "title": "In My Head",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/10/Juice-WRLD-In-My-Head-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/17525/",
+   "lyrics": ""
+ },
+ {
+   "id": 3,
+   "name_category": "Juice WRLD",
+   "title": "Lucid Dreams (Remix)",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/01/[HipHopKit.com]juice-wrld.jpg",
+   "link_mp3": "https://hiphopkit.com/music/download/14570/",
+   "lyrics": ""
+ },
+ {
+   "id": 4,
+   "name_category": "Juice WRLD",
+   "title": "Make Believe",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Make-Believe-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/9060/",
+   "lyrics": ""
+ },
+ {
+   "id": 5,
+   "name_category": "Juice WRLD",
+   "title": "Rider",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Rider-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/9059/",
+   "lyrics": ""
+ }
+  ]
+}
