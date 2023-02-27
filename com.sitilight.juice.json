@@ -210,9 +210,169 @@
  {
    "id": 20,
    "name_category": "Juice WRLD",
-   "title": "Hear Me Calling ",
+   "title": "Hear Me Calling",
    "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Wont-Let-Go-artwork.jpeg",
    "link_mp3": "https://hiphopkit.com/music/download/9039/",
+   "lyrics": ""
+ },
+ {
+   "id": 21,
+   "name_category": "Juice WRLD",
+   "title": "Fast",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Fast-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/9038/",
+   "lyrics": ""
+ },
+ {
+   "id": 22,
+   "name_category": "Juice WRLD",
+   "title": "Demonz [Interlude]",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Fast-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/9037/",
+   "lyrics": ""
+ },
+ {
+   "id": 23,
+   "name_category": "Juice WRLD",
+   "title": "HeMotions",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-Fast-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/9036/",
+   "lyrics": ""
+ },
+ {
+   "id": 24,
+   "name_category": "Juice WRLD",
+   "title": "MAZE",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,350",
+   "link_mp3": "https://hiphopkit.com/music/download/9010",
+   "lyrics": ""
+ },
+ {
+   "id": 25,
+   "name_category": "Juice WRLD",
+   "title": "Empty",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,351",
+   "link_mp3": "https://hiphopkit.com/music/download/9009",
+   "lyrics": ""
+ },
+ {
+   "id": 26,
+   "name_category": "Juice WRLD",
+   "title": "Karma",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,352",
+   "link_mp3": "https://hiphopkit.com/music/download/9008",
+   "lyrics": ""
+ },
+ {
+   "id": 27,
+   "name_category": "Juice WRLD",
+   "title": "Betrayal",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,353",
+   "link_mp3": "https://hiphopkit.com/music/download/9007",
+   "lyrics": ""
+ },
+ {
+   "id": 28,
+   "name_category": "Juice WRLD",
+   "title": "Long Gone",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,354",
+   "link_mp3": "https://hiphopkit.com/music/download/9006",
+   "lyrics": ""
+ },
+ {
+   "id": 29,
+   "name_category": "Juice WRLD",
+   "title": "End of the Road",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,355",
+   "link_mp3": "https://hiphopkit.com/music/download/9005",
+   "lyrics": ""
+ },
+ {
+   "id": 30,
+   "name_category": "Juice WRLD",
+   "title": "I’m Still",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,356",
+   "link_mp3": "https://hiphopkit.com/music/download/9004",
+   "lyrics": ""
+ },
+ {
+   "id": 31,
+   "name_category": "Juice WRLD",
+   "title": "Hurt Me",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,357",
+   "link_mp3": "https://hiphopkit.com/music/download/9003",
+   "lyrics": ""
+ },
+ {
+   "id": 32,
+   "name_category": "Juice WRLD",
+   "title": "Scared of Love",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,358",
+   "link_mp3": "https://hiphopkit.com/music/download/9002",
+   "lyrics": ""
+ },
+ {
+   "id": 33,
+   "name_category": "Juice WRLD",
+   "title": "Candles",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,359",
+   "link_mp3": "https://hiphopkit.com/music/download/9001",
+   "lyrics": ""
+ },
+ {
+   "id": 34,
+   "name_category": "Juice WRLD",
+   "title": "Used To",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,360",
+   "link_mp3": "https://hiphopkit.com/music/download/9000",
+   "lyrics": ""
+ },
+ {
+   "id": 35,
+   "name_category": "Juice WRLD",
+   "title": "I’ll Be Fine",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,361",
+   "link_mp3": "https://hiphopkit.com/music/download/8998/",
+   "lyrics": ""
+ },
+ {
+   "id": 36,
+   "name_category": "Juice WRLD",
+   "title": "Lean Wit Me",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,362",
+   "link_mp3": "https://hiphopkit.com/music/download/8997/",
+   "lyrics": ""
+ },
+ {
+   "id": 37,
+   "name_category": "Juice WRLD",
+   "title": "Black & White",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,363",
+   "link_mp3": "https://hiphopkit.com/music/download/8996/",
+   "lyrics": ""
+ },
+ {
+   "id": 38,
+   "name_category": "Juice WRLD",
+   "title": "Wasted",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,364",
+   "link_mp3": "https://hiphopkit.com/music/download/8995/",
+   "lyrics": ""
+ },
+ {
+   "id": 39,
+   "name_category": "Juice WRLD",
+   "title": "Lucid Dreams",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,365",
+   "link_mp3": "https://hiphopkit.com/music/download/8951/",
+   "lyrics": ""
+ },
+ {
+   "id": 40,
+   "name_category": "Juice WRLD",
+   "title": "All Girls Are The Same",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,350",
+   "link_mp3": "https://hiphopkit.com/music/download/8950/",
    "lyrics": ""
  }
   ]
