@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-9488296014066778/6828978717",
       "main_ads_intertitial":"ca-app-pub-9488296014066778/2346808225",
       "main_ads_natives":"ca-app-pub-9488296014066778/5756118932",
@@ -18,7 +18,7 @@
       "on_off_native_listview":"1",
       "interval_intertitial": 9,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "initialize_sdk_backup_ads":"-J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
       "high_paying_keyword_1": "amazon",
       "high_paying_keyword_2": "apple",
       "high_paying_keyword_3": "iphone",
@@ -61,19 +61,195 @@
   ],
 
   "Data":
- [
+ 
    
-    {
-   "id": 99,
+   [
+ {
+   "id": 1,
+   "name_category": "Wednesday",
+   "title": "Wednesday75",
+   "image": "https://i.pinimg.com/736x/02/3e/01/023e019bb4e3aa81619d1f3bdde1aede.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Art",
+   "title": "Fun Art63",
+   "image": "https://i.pinimg.com/736x/05/af/8b/05af8b2ecdfb91b764dda845cb40b056.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Art",
+   "title": "Fun Art62",
+   "image": "https://i.pinimg.com/736x/05/b9/9b/05b99b83bd3aa783434c6cbaa821f992.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Wednesday",
+   "title": "Wednesday71",
+   "image": "https://i.pinimg.com/736x/0d/d1/af/0dd1af27726140bcab74077e1128e0fe.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Wednesday",
+   "title": "Wednesday74",
+   "image": "https://i.pinimg.com/736x/1c/e4/27/1ce42783bef4c39d06020a0c465689f7.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Art",
+   "title": "Fun Art60",
+   "image": "https://i.pinimg.com/736x/3e/9e/52/3e9e5294014c53c141772e64787546c6.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Enid",
+   "title": "Enid2",
+   "image": "https://i.pinimg.com/736x/46/f6/5e/46f65e40122ce3f76864bccc22c7fad0.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Wednesday",
+   "title": "Wednesday72",
+   "image": "https://i.pinimg.com/736x/4e/24/96/4e2496efc008769de8e538fafc07ab78.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Art",
+   "title": "Fun Art67",
+   "image": "https://i.pinimg.com/736x/4f/e7/52/4fe752ec65f85a2b903c5ceac55813fb.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Art",
+   "title": "Fun Art58",
+   "image": "https://i.pinimg.com/736x/54/c4/08/54c408929103796e0eddf3f8607bcb3b.jpg"
+ },
+ {
+   "id": 11,
    "name_category": "Enid",
    "title": "Enid3",
    "image": "https://i.pinimg.com/736x/57/ab/21/57ab216303b972cc654b5eddae9d44c3.jpg"
  },
-    {
-   "id": 62,
-   "name_category": "Fun Art",
-   "title": "Fun Art 15",
-   "image": "file:///android_asset/image/funart/funart (4).png"
+ {
+   "id": 12,
+   "name_category": "Art",
+   "title": "Fun Art65",
+   "image": "https://i.pinimg.com/736x/5c/04/53/5c0453ef8ec7c004eb4190e80501de50.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Art",
+   "title": "Fun Art57",
+   "image": "https://i.pinimg.com/736x/6a/c2/d0/6ac2d08ab4ec398c7fb5abff5c0a7380.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Enid",
+   "title": "Enid1",
+   "image": "https://i.pinimg.com/736x/7a/47/e2/7a47e2d3fcc4dc1b386956f04a2d3254.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Wednesday",
+   "title": "Wednesday73",
+   "image": "https://i.pinimg.com/736x/94/17/1b/94171bf91d7b759a1c4775e3244c73b3.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Romance",
+   "title": "Romance3",
+   "image": "https://i.pinimg.com/736x/97/ed/da/97edda4e38b6b894e4aa1fbd7ca7be4c.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Wednesday",
+   "title": "Wednesday78",
+   "image": "https://i.pinimg.com/736x/a3/7d/6d/a37d6d23baa4992c24ccb3c5863b0e80.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Art",
+   "title": "Fun Art66",
+   "image": "https://i.pinimg.com/736x/a6/9c/b9/a69cb961212032b578f8637201b54ac0.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Art",
+   "title": "Fun Art61",
+   "image": "https://i.pinimg.com/736x/ad/1b/ba/ad1bbac0d2a7dd9c3ee9e2e857020046.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Wednesday",
+   "title": "Wednesday76",
+   "image": "https://i.pinimg.com/736x/ae/b7/5f/aeb75f9f97eb7b443885dc0f2d32588a.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Art",
+   "title": "Fun Art56",
+   "image": "https://i.pinimg.com/736x/b9/1b/28/b91b28805987b2ea36a012825a695a20.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Art",
+   "title": "Fun Art64",
+   "image": "https://i.pinimg.com/736x/c4/56/96/c45696a4a0f05a67e31af0ca51383cda.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Art",
+   "title": "Fun Art59",
+   "image": "https://i.pinimg.com/736x/c6/d7/6f/c6d76f70e890b624e77cfcdafa83f359.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Art",
+   "title": "Fun Art55",
+   "image": "https://i.pinimg.com/736x/c6/fd/6f/c6fd6fb3123b8500b1d83cf2015e3038.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Enid",
+   "title": "Enid4",
+   "image": "https://i.pinimg.com/736x/cf/d4/df/cfd4df78d9598661fb7737ab93c63e21.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Romance",
+   "title": "Romance2",
+   "image": "https://i.pinimg.com/736x/ee/73/2b/ee732b52051dcfe74c66d09f1284bda8.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Wednesday",
+   "title": "Wednesday77",
+   "image": "https://i.pinimg.com/736x/ef/86/67/ef866739a2ea27772e62974c7e29255c.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Enid",
+   "title": "Enid5",
+   "image": "https://i.pinimg.com/736x/f3/d2/31/f3d231701afdee5ec4f25dcdd7b785be.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Romance",
+   "title": "Romance1",
+   "image": "https://i.pinimg.com/736x/f5/a5/ea/f5a5ea5a88308acb491c8749eb1e6d50.jpg"
+ },
+ {
+   "id": 30,
+   "name_category": "Art",
+   "title": "Fun Art505",
+   "image": "https://images2.alphacoders.com/129/1294018.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Display",
+   "title": "Sirens 1",
+   "image": "https://images8.alphacoders.com/129/1291352.png"
  }
+
 ]
 }
