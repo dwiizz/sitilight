@@ -48,31 +48,271 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Girly",
-      "image": "http://archive.org/download/girly-257/girly%20%28112%29.jpg"
+      "name_category": "Goku",
+      "image": "https://i.pinimg.com/736x/3c/d2/4e/3cd24e032fdcd6a5b141e2a39fb149b2.jpg"
+
+    },
+     {
+      "id": 1,
+      "name_category": "Gogeta",
+      "image": "https://i.pinimg.com/736x/26/e9/0d/26e90daf9b5ee7dc3277f835173190d7.jpg"
+
+    },
+     {
+      "id": 1,
+      "name_category": "Gohan",
+      "image": "https://i.pinimg.com/736x/f8/d0/8f/f8d08f376ddeabe2b61761f9e8cec604.jpg"
+
+    },
+     {
+      "id": 1,
+      "name_category": "Vegito",
+      "image": "https://i.pinimg.com/736x/f3/b0/52/f3b0523ef672e3d9c1ec26a0f1f5db9d.jpg"
+
+    },
+    {
+      "id": 1,
+      "name_category": "Beerus",
+      "image": "https://i.pinimg.com/736x/79/12/36/7912363e4093ee114c9b066b9c9b847f.jpg"
+
+    },
+    {
+      "id": 1,
+      "name_category": "Freeza",
+      "image": "https://i.pinimg.com/736x/57/07/67/5707679c4543d7c3a6819ef994260ff1.jpg"
+
+    },
+    {
+      "id": 1,
+      "name_category": "Ego",
+      "https://i.pinimg.com/736x/be/92/c4/be92c4bc802f17a50dbee4b22e61ad99.jpg"
 
     },
      {
       "id": 4,
-      "name_category": "Panda",
-      "image": "http://archive.org/download/panda-28/Panda%20%2858%29.jpg"
+      "name_category": "Kefla",
+      "image": "https://i.pinimg.com/736x/5a/dd/ca/5addca4a1353fe1b7ff5d6c37fcc02bd.jpg"
 
     }
   ],
 
   "Data":
-  [
+ [
+ {
+   "id": 8,
+   "name_category": "Goku",
+   "title": "Goku 8",
+   "image": "https://i.pinimg.com/736x/52/9e/a2/529ea236515bf370bd1b081a56ed88b1.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Goku",
+   "title": "Goku 4",
+   "image": "https://i.pinimg.com/736x/f5/78/eb/f578eb842aceb349135a56be5bfbd73f.jpg"
+ },
+ {
+   "id": 27,
+   "name_category": "Vegito",
+   "title": "Vegito 2",
+   "image": "https://i.pinimg.com/736x/dc/9b/ba/dc9bba30e469fcf9c0f4acf9928124c8.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Goku",
+   "title": "Goku 5",
+   "image": "https://i.pinimg.com/736x/3c/d2/4e/3cd24e032fdcd6a5b141e2a39fb149b2.jpg"
+ },
+ {
+   "id": 32,
+   "name_category": "Ego",
+   "title": "Ego 1",
+   "image": "https://i.pinimg.com/736x/75/62/1a/75621a4a90f565f25495e85d2ab873a9.jpg"
+ },
+ {
+   "id": 26,
+   "name_category": "Vegito",
+   "title": "Vegito 1",
+   "image": "https://i.pinimg.com/736x/f3/b0/52/f3b0523ef672e3d9c1ec26a0f1f5db9d.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Goku",
+   "title": "Goku 6",
+   "image": "https://i.pinimg.com/736x/42/6a/a0/426aa06debbdcc41894b186d944583fc.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Goku",
+   "title": "Goku 13",
+   "image": "https://i.pinimg.com/736x/2a/94/e8/2a94e83a01829c8aa1656f43338059a1.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Goku",
+   "title": "Goku 10",
+   "image": "https://i.pinimg.com/736x/12/79/05/127905ed4afdd791ac611821f404e912.jpg"
+ },
+ {
+   "id": 25,
+   "name_category": "Gohan",
+   "title": "Gohan 2",
+   "image": "https://i.pinimg.com/736x/e7/e8/a5/e7e8a54783cbda1a5d0c6bd4720b5540.jpg"
+ },
+ {
+   "id": 31,
+   "name_category": "Freeza",
+   "title": "Freeza 1",
+   "image": "https://i.pinimg.com/736x/57/07/67/5707679c4543d7c3a6819ef994260ff1.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Gogeta",
+   "title": "Gogeta 2",
+   "image": "https://i.pinimg.com/736x/c5/3a/d7/c53ad7a10b9fbbc123a536ea30f8d4ab.jpg"
+ },
  {
    "id": 1,
-   "name_category": "Butterfly",
-   "title": "Butterfly 37",
-   "image": "http://archive.org/download/butterfly-30/butterfly%20%2834%29.jpg"
+   "name_category": "Goku",
+   "title": "Goku 1",
+   "image": "https://i.pinimg.com/736x/57/00/c1/5700c1a0be5a49ffd1a0b9a8b243a953.jpg"
  },
-     {
-   "id": 689,
-   "name_category": "Cute Pastel",
-   "title": "Pastel 8",
-   "image": "http://archive.org/download/cute-pastel-71/cute%20pastel%20%2814%29.jpg"
+ {
+   "id": 30,
+   "name_category": "Beerus",
+   "title": "Beerus 1",
+   "image": "https://i.pinimg.com/736x/79/12/36/7912363e4093ee114c9b066b9c9b847f.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Gogeta",
+   "title": "Gogeta 4",
+   "image": "https://i.pinimg.com/736x/26/e9/0d/26e90daf9b5ee7dc3277f835173190d7.jpg"
+ },
+ {
+   "id": 28,
+   "name_category": "Vegito",
+   "title": "Vegito 3",
+   "image": "https://i.pinimg.com/736x/1a/8c/73/1a8c73f09e41910b61e29a045b0073a0.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Goku",
+   "title": "Goku 12",
+   "image": "https://i.pinimg.com/736x/ea/25/c6/ea25c68ef81070a403f397f19010928d.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Goku",
+   "title": "Goku 17",
+   "image": "https://i.pinimg.com/736x/5d/f5/96/5df596f0858a98c91787928e156e1e28.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Gogeta",
+   "title": "Gogeta 3",
+   "image": "https://i.pinimg.com/736x/cf/94/e1/cf94e17b3b5b410180bd89c4509cf9ca.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Goku",
+   "title": "Goku 3",
+   "image": "https://i.pinimg.com/736x/8e/3f/b1/8e3fb1f85e2436157479964c1fd7fb62.jpg"
+ },
+ {
+   "id": 29,
+   "name_category": "Vegito",
+   "title": "Vegito 4",
+   "image": "https://i.pinimg.com/736x/20/5d/cf/205dcf7dcc8561cae28192325745888c.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Goku",
+   "title": "Goku 7",
+   "image": "https://i.pinimg.com/736x/d9/32/82/d93282ab4a5d669986b97b3aa495b242.jpg"
+ },
+ {
+   "id": 33,
+   "name_category": "Ego",
+   "title": "Ego 2",
+   "image": "https://i.pinimg.com/736x/d3/63/c2/d363c27a2ac455af0c19a2e39bf95a08.jpg"
+ },
+ {
+   "id": 34,
+   "name_category": "Ego",
+   "title": "Ego 3",
+   "image": "https://i.pinimg.com/736x/3f/ff/58/3fff5832e236da38dc6e9d4dbae0332b.jpg"
+ },
+ {
+   "id": 24,
+   "name_category": "Gohan",
+   "title": "Gohan 1",
+   "image": "https://i.pinimg.com/736x/f8/d0/8f/f8d08f376ddeabe2b61761f9e8cec604.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Goku",
+   "title": "Goku 19",
+   "image": "https://i.pinimg.com/736x/31/09/3f/31093fe1319a41442873c86978346f97.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Goku",
+   "title": "Goku 14",
+   "image": "https://i.pinimg.com/736x/6a/dc/a6/6adca63c3d55ddb04282541c087d7976.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Gogeta",
+   "title": "Gogeta 1",
+   "image": "https://i.pinimg.com/736x/47/76/68/4776687fed22bb6d17b9aa293dc0ee98.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Goku",
+   "title": "Goku 18",
+   "image": "https://i.pinimg.com/736x/a8/2d/14/a82d1474bb3bc54c841e819dd52aefdc.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Goku",
+   "title": "Goku 15",
+   "image": "https://i.pinimg.com/736x/b0/ef/f1/b0eff14f7d0c103b2332065f187d51e4.jpg"
+ },
+ {
+   "id": 35,
+   "name_category": "Ego",
+   "title": "Ego 4",
+   "image": "https://i.pinimg.com/736x/be/92/c4/be92c4bc802f17a50dbee4b22e61ad99.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Goku",
+   "title": "Goku 11",
+   "image": "https://i.pinimg.com/736x/a7/e1/4e/a7e14eaa6d297f2b457d701e05a5f13f.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Goku",
+   "title": "Goku 2",
+   "image": "https://i.pinimg.com/736x/14/f1/44/14f144922126bc1194ba9f067daf36ed.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Goku",
+   "title": "Goku 16",
+   "image": "https://i.pinimg.com/736x/20/0b/2c/200b2c47e6395fd3dc58efb23e41d93f.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Goku",
+   "title": "Goku 9",
+   "image": "https://i.pinimg.com/736x/97/f6/21/97f621ba443b47b72aab6ea2b89a646d.jpg"
+ },
+ {
+   "id": 36,
+   "name_category": "Kefla",
+   "title": "Kefla1",
+   "image": "https://i.pinimg.com/736x/5a/dd/ca/5addca4a1353fe1b7ff5d6c37fcc02bd.jpg"
  }
 ]
 }
