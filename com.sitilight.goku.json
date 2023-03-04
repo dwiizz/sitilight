@@ -1,0 +1,78 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"-ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"PL350911184828",
+      "backup_ads_banner":"PL350911184828",
+      "backup_ads_intertitial":"PL350911184828",
+      "backup_ads_rewards":"PL350911184828",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"PL350911184828",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"0",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+       {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+    {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Girly",
+      "image": "http://archive.org/download/girly-257/girly%20%28112%29.jpg"
+
+    },
+     {
+      "id": 4,
+      "name_category": "Panda",
+      "image": "http://archive.org/download/panda-28/Panda%20%2858%29.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+ {
+   "id": 1,
+   "name_category": "Butterfly",
+   "title": "Butterfly 37",
+   "image": "http://archive.org/download/butterfly-30/butterfly%20%2834%29.jpg"
+ },
+     {
+   "id": 689,
+   "name_category": "Cute Pastel",
+   "title": "Pastel 8",
+   "image": "http://archive.org/download/cute-pastel-71/cute%20pastel%20%2814%29.jpg"
+ }
+]
+}
