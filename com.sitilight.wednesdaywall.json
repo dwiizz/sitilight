@@ -46,18 +46,26 @@
   ],
 
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "Wednesday",
-      "image": "file:///android_asset/image/wednesday/wednesday (11).jpg"
-
-    },
-     {
-      "id": 5,
-      "name_category": "Display",
-      "image": "file:///android_asset/image/display/display (8).jpg"
-
-    }
+   {
+   "id": 1,
+   "name_category": "Wednesday",
+   "image": "https://i.pinimg.com/736x/53/60/7c/53607ca47f31bdcdfeb220414e1f7ffb.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Enid",
+   "image": "https://i.pinimg.com/736x/7a/47/e2/7a47e2d3fcc4dc1b386956f04a2d3254.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Art",
+   "image": "https://i.pinimg.com/736x/6a/c2/d0/6ac2d08ab4ec398c7fb5abff5c0a7380.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Romance",
+   "image": "https://i.pinimg.com/736x/97/ed/da/97edda4e38b6b894e4aa1fbd7ca7be4c.jpg"
+ }
   ],
 
   "Data":
