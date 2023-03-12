@@ -1,0 +1,55 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_admob":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"123",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Juice WRLD",
+      "image": "https://hiphopkit.com/music/download/14570/"
+    }
+  ],
+   "Data": [
+    {
+   "id": 1,
+   "name_category": "Juice WRLD",
+   "title": "Face 2 Face",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/12/Juice-WRLD-Face-2-Face-artwork.jpeg",
+   "link_mp3": "https://hiphopkit.com/music/download/21849/",
+   "lyrics": ""
+ },
+      {
+   "id": 40,
+   "name_category": "Juice WRLD",
+   "title": "All Girls Are The Same",
+   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,350",
+   "link_mp3": "https://hiphopkit.com/music/download/8950/",
+   "lyrics": ""
+ }
+  ]
+}
