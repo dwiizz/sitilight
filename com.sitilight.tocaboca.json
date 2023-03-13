@@ -55,17 +55,8 @@
    "id": 2,
    "name_category": "Enid",
    "image": "https://i.pinimg.com/736x/7a/47/e2/7a47e2d3fcc4dc1b386956f04a2d3254.jpg"
- },
- {
-   "id": 3,
-   "name_category": "Art",
-   "image": "https://i.pinimg.com/736x/6a/c2/d0/6ac2d08ab4ec398c7fb5abff5c0a7380.jpg"
- },
- {
-   "id": 4,
-   "name_category": "Romance",
-   "image": "https://i.pinimg.com/736x/97/ed/da/97edda4e38b6b894e4aa1fbd7ca7be4c.jpg"
  }
+ 
   ],
 
   "Data":
