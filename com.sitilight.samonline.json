@@ -13,7 +13,7 @@
       "open_ads_admob":"ca-app-pub-2365282461254996/6891944855",
       "open_ads_alien":"123",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
+      "switch_banner_natives_ads":"0",
       "interval_intertitial": 11,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"4571675",
