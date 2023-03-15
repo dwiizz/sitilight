@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      //"select_main_ads": "ADMOB",
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"UNITY",
+      //"select_main_ads": "-ADMOB",
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-UNITY",
       "main_ads_banner": "ca-app-pub-4854064161928866/1013096518",
       "main_ads_intertitial":"0239aaa48217354a",
       "main_ads_natives":"04510cab9c719719",
@@ -39,18 +39,7 @@
    "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
  },
-{
-   "id": 1,
-   "title": "Valentine Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/r4lJHrBMva39CmtyPD0FC-whnYbVTf-oh4hJBaTk5LuvMFEeNVvUp72Z7_tBbBXShPLL=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.valentine"
- },
- {
-   "id": 1,
-   "title": "Pastel Cute Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
- },
+
 {
    "id": 5,
    "title": "Preppy Wallpapers Pink",
@@ -68,26 +57,6 @@
    "title": "HD Wallpaper n Vivid Wallpaper",
    "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
- },
- {
-   "id": 3,
-   "title": "Preppy Wallpapers Blue",
-   "image": "https://play-lh.googleusercontent.com/Ra7bzITG047OGlM-q9JQErvixoRBPhxWCdk4dQeVWOmgeb_bd2vbS9f5YQNeeC3bH2o=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
- },
- 
- 
- {
-   "id": 6,
-   "title": "Aesthetic Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/SwncRlGPejabuC97H2tiy0KmQzNze9RmqdHT-Mz-IWx1IJm-D5URA6VRA3JFFKSidG8=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul2.pastelwallpaper"
- },
- {
-   "id": 7,
-   "title": "Preppy Wallpapers Aesthetic",
-   "image": "https://play-lh.googleusercontent.com/EbRiBgYFys2d3Pvd3SEnowPtEqzy0lvfhrUc6nQ5VryvwFKgX4sy9lgUBohkkLPvrhhU=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaperaesthetic"
  },
  
  {
