@@ -3,20 +3,20 @@
     {
       
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"UNITY",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-2365282461254996/1831189866",
       "main_ads_intertitial":"ca-app-pub-2365282461254996/4097975149",
       "main_ads_natives":"ca-app-pub-2365282461254996/8444414265",
-      "backup_ads_natives":"Banner_Android",
-      "backup_ads_banner":"Banner_Android",
-      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_natives":"123456",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
       "open_ads_admob":"ca-app-pub-2365282461254996/6891944855",
       "open_ads_alien":"123",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"0",
-      "interval_intertitial": 11,
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 9,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"4571675",
+      "initialize_sdk_backup_ads":"203773357",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -33,31 +33,14 @@
    "image": "https://play-lh.googleusercontent.com/LA_KXSg7PO3e-lkwmZtt-fxgzUxctC6BMenEkRFSuN3qfLwkUSRAH7T4tSfkkRu6mg=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.cutegirlwallpaper"
  },
-      {
-   "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
- },
-
-{
-   "id": 5,
-   "title": "Preppy Wallpapers Pink",
-   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
- },
+     
 {
    "id": 4,
    "title": "Wednesday Adams Wallpapers",
    "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
  },
- {
-   "id": 2,
-   "title": "HD Wallpaper n Vivid Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
- },
+
  
  {
    "id": 9,
