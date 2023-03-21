@@ -1,0 +1,167 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_admob":"ca-app-pub-3940256099942544/6300978111",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"123",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sholawat",
+      "image": "file:///android_asset/image/laila.jpg"
+    }
+  ],
+  "Data": [
+     {
+   "id": 1,
+   "name_category": "Sholawat",
+   "title": "Aisyah Istri Rasulullah (Cover) || Voc. Ning Ummi Laila",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468526353.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 2,
+   "name_category": "Sholawat",
+   "title": "ALAIKA ROSULI - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468546641.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 3,
+   "name_category": "Sholawat",
+   "title": "Allah Allah Aghitsna - Ning Umi",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468567672.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 4,
+   "name_category": "Sholawat",
+   "title": "GHORRID YA SYIBLAL IMAN (BANJARI VERSION) - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468710802.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 5,
+   "name_category": "Sholawat",
+   "title": "HABLI HUDAYA ( ROBBAHU BIDZIKRIKA ) - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468731439.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 6,
+   "name_category": "Sholawat",
+   "title": "HUBBU AHMADI - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468754156.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 7,
+   "name_category": "Sholawat",
+   "title": "Isyfalana - Umi Laila | Cover",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468770598.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 8,
+   "name_category": "Sholawat",
+   "title": "KALAMUN QODIMUN - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468796051.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 9,
+   "name_category": "Sholawat",
+   "title": "MINNARROJA - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468816253.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 10,
+   "name_category": "Sholawat",
+   "title": "QOD ANSHOHA - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468845471.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 11,
+   "name_category": "Sholawat",
+   "title": "ROBBI LAHUL ASMAUL HUSNA - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468863407.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 12,
+   "name_category": "Sholawat",
+   "title": "ROBBI SALLIMNA - NING UMI LAILA FEAT GUS JAZMY ALBUM SHOLAWAT PP SUNAN KALIJOGO SURABAYA 2023",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468902348.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 13,
+   "name_category": "Sholawat",
+   "title": "ROYATUL HUBBI (BANJARI VERSION) - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468929296.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 14,
+   "name_category": "Sholawat",
+   "title": "SLUKU SLUKU BATHOK - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468956324.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 15,
+   "name_category": "Sholawat",
+   "title": "TAROHHABNA - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678468988900.mp3",
+   "lyrics": ""
+ },
+ {
+   "id": 16,
+   "name_category": "Sholawat",
+   "title": "YA ABAL HASANAIN - NING UMI LAILA",
+   "image": "file:///android_asset/image/laila.jpg",
+   "link_mp3": "http://archive.org/download/file_1678468796051/file_1678469010371.mp3",
+   "lyrics": ""
+ }
+  ]
+}
