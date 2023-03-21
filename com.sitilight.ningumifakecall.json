@@ -1,0 +1,139 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "-9488296014066778/6385455077",
+      "main_ads_intertitial":"-pub-9488296014066778/9352182152",
+      "main_ads_natives":"-9488296014066778/5820131258",
+      "main_ads_rewards":"-9488296014066778/5412937149",
+      "backup_ads_natives":"123456",
+      "backup_ads_banner":"123456",
+      "backup_ads_intertitial":"123456",
+      "backup_ads_rewards":"123456",
+      "open_ads_admob":"-pub-9488296014066778/3225208761",
+      "open_ads_alien":"13",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 9,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"203773357",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+      {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+{
+   "id": 1,
+   "title": "Cek Pajak Kendaraan Anda",
+   "image": "https://play-lh.googleusercontent.com/fIrG9qJ4Zez2My57_OcqREWPhmKVVJjsMz8uMbw71DIWIZC4Ew0-O9ETFSdUQSDF2AvB=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.samonline"
+ },
+ {
+   "id": 1,
+   "title": "Pastel Cute Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
+ },
+{
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ },
+{
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 2,
+   "title": "HD Wallpaper n Vivid Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
+ },
+ {
+   "id": 3,
+   "title": "Preppy Wallpapers Blue",
+   "image": "https://play-lh.googleusercontent.com/Ra7bzITG047OGlM-q9JQErvixoRBPhxWCdk4dQeVWOmgeb_bd2vbS9f5YQNeeC3bH2o=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
+ },
+ 
+ 
+ {
+   "id": 6,
+   "title": "Aesthetic Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/SwncRlGPejabuC97H2tiy0KmQzNze9RmqdHT-Mz-IWx1IJm-D5URA6VRA3JFFKSidG8=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul2.pastelwallpaper"
+ },
+ {
+   "id": 7,
+   "title": "Preppy Wallpapers Aesthetic",
+   "image": "https://play-lh.googleusercontent.com/EbRiBgYFys2d3Pvd3SEnowPtEqzy0lvfhrUc6nQ5VryvwFKgX4sy9lgUBohkkLPvrhhU=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaperaesthetic"
+ },
+ {
+   "id": 8,
+   "title": "Fake Call : Santa Claus",
+   "image": "https://play-lh.googleusercontent.com/H9z9-nKNR2RxBE_h6lq_Ksrbgh4ScN494jwsoDVZkhuyCzdla1dXPXW_7_njM1mg1EQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fakecall"
+ },
+ {
+   "id": 9,
+   "title": "Sport Car Live Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/nf_m2jvHz0SZlG4JLGFosepwahzehFA4_D82T7gsIQiqaaRH_7RB9vKl0VtlbrZ27jPo=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.realcarswallpaper"
+ },
+ 
+ {
+   "id": 11,
+   "title": "Twibbon Maker : Photo Frame",
+   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
+ },
+ {
+   "id": 12,
+   "title": "Cek Pajak Kendaraan Samsat",
+   "image": "https://play-lh.googleusercontent.com/ECWL2sW-To60Uaix3keo8iu1IiVAHItyD696SUknSDntsWEPfVEom-qgapSAf2feMqYh=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.samsatonlinenasional"
+ },
+ {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+  "Item":
+  [
+      {
+   "id": 1,
+   "name": "Master Latto Latto 1",
+   "image_url": "file:///android_asset/image/latho latho (2).jpg",
+   "video_url": "http://archive.org/download/lord-arnold-3/CaraLato.mp4",
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
+ },
+     {
+   "id": 7,
+   "name": "Master Latho2 Palsu",
+   "image_url": "file:///android_asset/image/latho latho (1).jpeg",
+   "video_url": "http://archive.org/download/lord-arnold-3/lato.mp4",
+   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
+ }
+  ]
+
+}
