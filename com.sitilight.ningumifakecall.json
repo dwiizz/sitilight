@@ -30,24 +30,14 @@
 
   "More":
   [
-      {
-   "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
- },
+      
 {
    "id": 1,
    "title": "Cek Pajak Kendaraan Anda",
    "image": "https://play-lh.googleusercontent.com/fIrG9qJ4Zez2My57_OcqREWPhmKVVJjsMz8uMbw71DIWIZC4Ew0-O9ETFSdUQSDF2AvB=w2560-h1440",
    "link": "https://play.google.com/store/apps/details?id=com.sitilight.samonline"
  },
- {
-   "id": 1,
-   "title": "Pastel Cute Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/H-0TQJ8QpFzY5nm3vAm95QNUxHGui0EW7-hASvIjeoiEGkp5BOfLaA6LwWa9PqAIpliy=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.pastelwallpaper"
- },
+ 
 {
    "id": 5,
    "title": "Preppy Wallpapers Pink",
@@ -60,12 +50,7 @@
    "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
  },
- {
-   "id": 2,
-   "title": "HD Wallpaper n Vivid Wallpaper",
-   "image": "https://play-lh.googleusercontent.com/0ht4CqVoR3EaK7zh9VBX3Y_Do_K4My1qAMVcUDgIU5BXqlhDhhxXxs6LWWKw-nqKJew=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.hdwallpaper"
- },
+ 
  {
    "id": 3,
    "title": "Preppy Wallpapers Blue",
@@ -73,25 +58,6 @@
    "link": "https://play.google.com/store/apps/details?id=com.gembulblue.pastelwallpaper"
  },
  
- 
- {
-   "id": 6,
-   "title": "Aesthetic Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/SwncRlGPejabuC97H2tiy0KmQzNze9RmqdHT-Mz-IWx1IJm-D5URA6VRA3JFFKSidG8=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul2.pastelwallpaper"
- },
- {
-   "id": 7,
-   "title": "Preppy Wallpapers Aesthetic",
-   "image": "https://play-lh.googleusercontent.com/EbRiBgYFys2d3Pvd3SEnowPtEqzy0lvfhrUc6nQ5VryvwFKgX4sy9lgUBohkkLPvrhhU=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaperaesthetic"
- },
- {
-   "id": 8,
-   "title": "Fake Call : Santa Claus",
-   "image": "https://play-lh.googleusercontent.com/H9z9-nKNR2RxBE_h6lq_Ksrbgh4ScN494jwsoDVZkhuyCzdla1dXPXW_7_njM1mg1EQ=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.fakecall"
- },
  {
    "id": 9,
    "title": "Sport Car Live Wallpaper 4K",
