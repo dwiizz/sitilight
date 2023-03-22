@@ -48,23 +48,13 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "Wednesday",
-   "image": "https://i.pinimg.com/736x/53/60/7c/53607ca47f31bdcdfeb220414e1f7ffb.jpg"
+   "name_category": "Scream IV",
+   "image": "https://i.pinimg.com/736x/8f/b5/2b/8fb52b5e5a99d5794edc81c3dbcbe226.jpg"
  },
  {
    "id": 2,
    "name_category": "Enid",
    "image": "https://i.pinimg.com/736x/7a/47/e2/7a47e2d3fcc4dc1b386956f04a2d3254.jpg"
- },
- {
-   "id": 3,
-   "name_category": "Art",
-   "image": "https://i.pinimg.com/736x/6a/c2/d0/6ac2d08ab4ec398c7fb5abff5c0a7380.jpg"
- },
- {
-   "id": 4,
-   "name_category": "Romance",
-   "image": "https://i.pinimg.com/736x/97/ed/da/97edda4e38b6b894e4aa1fbd7ca7be4c.jpg"
  }
   ],
 
@@ -73,16 +63,142 @@
    
    [
       {
-   "id": 50,
-   "name_category": "Wednesday",
-   "title": "Wednesday 100",
-   "image": "https://i.pinimg.com/736x/82/34/c8/8234c8f3b03d7fadda6919168cda139e.jpg"
+   "id": 1,
+   "name_category": "Scream IV",
+   "title": "Scream1",
+   "image": "https://i.pinimg.com/736x/cf/48/6e/cf486ea5071f4746e6620d2fde291fa6.jpg"
  },
-      {
-   "id": 31,
-   "name_category": "Display",
-   "title": "Sirens 1",
-   "image": "https://images8.alphacoders.com/129/1291352.png"
+ {
+   "id": 2,
+   "name_category": "Scream IV",
+   "title": "Scream2",
+   "image": "https://i.pinimg.com/736x/1c/47/1d/1c471d42dd3da7adb93f4d860f4cf559.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Scream IV",
+   "title": "Scream3",
+   "image": "https://i.pinimg.com/736x/37/38/fc/3738fcf1791d1b43aeef87208ecc2090.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Scream IV",
+   "title": "Scream4",
+   "image": "https://i.pinimg.com/736x/b6/62/34/b6623437a30498f8a8a9c58ba3a67d41.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Scream IV",
+   "title": "Scream5",
+   "image": "https://i.pinimg.com/736x/e7/ce/ad/e7cead74f2d5ecada81df070cf98581c.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Scream IV",
+   "title": "Scream6",
+   "image": "https://i.pinimg.com/736x/45/55/27/455527fbe1292ece26cefbceb8a231fe.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Scream IV",
+   "title": "Scream7",
+   "image": "https://i.pinimg.com/736x/0b/5e/21/0b5e213351bd15f63588c1ec9ccdd25f.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Scream IV",
+   "title": "Scream8",
+   "image": "https://i.pinimg.com/736x/9e/65/85/9e6585ed94e4b46ff7c06ad1747b7f09.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Scream IV",
+   "title": "Scream9",
+   "image": "https://i.pinimg.com/736x/da/d4/3e/dad43e4c849d9b1f7d4ac50316c32b06.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Scream IV",
+   "title": "Scream10",
+   "image": "https://i.pinimg.com/736x/07/a3/63/07a36345ff247c4e90f762b18782cb59.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Scream IV",
+   "title": "Scream11",
+   "image": "https://i.pinimg.com/736x/36/4d/9c/364d9ced566f017a410e5c80faad914f.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Scream IV",
+   "title": "Scream12",
+   "image": "https://i.pinimg.com/736x/8e/ab/6b/8eab6b77b65d0d62ecffd2de1e6b401f.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Scream IV",
+   "title": "Scream13",
+   "image": "https://i.pinimg.com/736x/4b/77/17/4b771760b5f0f0d86b97c935027464a4.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Scream IV",
+   "title": "Scream14",
+   "image": "https://i.pinimg.com/736x/04/1d/2c/041d2cd3df653c3fe5eb148f5803bc0a.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Scream IV",
+   "title": "Scream15",
+   "image": "https://i.pinimg.com/736x/5a/17/1c/5a171c711d49b9d7ac4de07fc5882826.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Scream IV",
+   "title": "Scream16",
+   "image": "https://i.pinimg.com/736x/08/53/52/08535282debfe21d6f93c66f955e0957.jpg"
+ },
+ {
+   "id": 17,
+   "name_category": "Scream IV",
+   "title": "Scream17",
+   "image": "https://i.pinimg.com/736x/a4/d8/28/a4d82824b3109acd14a36240762df5a0.jpg"
+ },
+ {
+   "id": 18,
+   "name_category": "Scream IV",
+   "title": "Scream18",
+   "image": "https://i.pinimg.com/736x/4a/1d/26/4a1d26acab9c2733ce42a0e6baea5e33.jpg"
+ },
+ {
+   "id": 19,
+   "name_category": "Scream IV",
+   "title": "Scream19",
+   "image": "https://i.pinimg.com/736x/48/9d/f3/489df38c29e56f2fd6656ca3ad5acf1f.jpg"
+ },
+ {
+   "id": 20,
+   "name_category": "Scream IV",
+   "title": "Scream20",
+   "image": "https://i.pinimg.com/736x/ce/e6/00/cee60016335225a8a41dfd11841bd8d6.jpg"
+ },
+ {
+   "id": 21,
+   "name_category": "Scream IV",
+   "title": "Scream21",
+   "image": "https://i.pinimg.com/736x/8f/b5/2b/8fb52b5e5a99d5794edc81c3dbcbe226.jpg"
+ },
+ {
+   "id": 22,
+   "name_category": "Scream IV",
+   "title": "Scream22",
+   "image": "https://i.pinimg.com/736x/d1/24/ac/d124acd68760231c304effba4944dbc3.jpg"
+ },
+ {
+   "id": 23,
+   "name_category": "Scream IV",
+   "title": "Scream23",
+   "image": "https://i.pinimg.com/736x/30/e8/1d/30e81d9bd56183b1d3379b837a2752b1.jpg"
  }
  
 
