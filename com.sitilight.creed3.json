@@ -1,0 +1,78 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-PPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/6300978111",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_natives":"db4d5e8718b97d78",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"123456",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"123456",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 1,
+   "title": "Love Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+ },
+     {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+
+  "Categories": [
+   {
+   "id": 1,
+   "name_category": "Wednesday",
+   "image": "https://i.pinimg.com/736x/53/60/7c/53607ca47f31bdcdfeb220414e1f7ffb.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Enid",
+   "image": "https://i.pinimg.com/736x/7a/47/e2/7a47e2d3fcc4dc1b386956f04a2d3254.jpg"
+ }
+ 
+  ],
+
+  "Data":
+ 
+   
+   [
+      {
+   "id": 1,
+   "name_category": "Wednesday",
+   "title": "Wednesday1",
+   "image": "https://i.pinimg.com/736x/99/b1/6c/99b16c3d3e6b3c7aac18c5bf447d1a38--wednesday-addams-blythe-dolls.jpg"
+ },
+      {
+   "id": 35,
+   "name_category": "Thursday",
+   "title": "Wednesday35",
+   "image": "https://s3files.mobeasy.com/static/u/897063/file-897063-68799.jpg"
+ }
+]
+}
