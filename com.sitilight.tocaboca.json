@@ -32,15 +32,33 @@
   [
      {
    "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
  },
      {
    "id": 13,
-   "title": "Cek BPKB Online",
-   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+   "title": "Gacha GL Free",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+     {
+   "id": 13,
+   "title": "Juice WRLD Music Free",
+   "image": "https://play-lh.googleusercontent.com/xUSfVFsR_rHOgTZxK3zkR2c7rFO6Jro8wqBy8F3fFaLkN9ZlSTZE98_FfArMS6GXAg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.juice"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+    {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
  }
   ],
 
