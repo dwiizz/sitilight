@@ -145,14 +145,14 @@
  {
    "id": 9,
    "name": "Ning Umi Laila 9",
-   "image_url": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/09/Ning-Umi-Laila-3721146586.jpg",
+   "image_url": "file:///android_asset/image/um9.png",
    "video_url": "http://archive.org/download/v3_20230328/v7.mp4",
    "voice_url": "http://archive.org/download/v3_20230328/4.mp3"
  },
  {
    "id": 10,
    "name": "Ning Umi Laila 10",
-   "image_url": "https://malangterkini.pikiran-rakyat.com/khazanah/pr-1255820604/profil-dan-biodata-ning-umi-laila-penyanyi-religi-sekaligus-ustadzah-muda",
+   "image_url": "file:///android_asset/image/um10.png",
    "video_url": "http://archive.org/download/v3_20230328/v8.mp4",
    "voice_url": "http://archive.org/download/v3_20230328/5.mp3"
  }
