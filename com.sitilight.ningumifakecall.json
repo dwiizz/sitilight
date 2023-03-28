@@ -90,71 +90,71 @@
    "id": 1,
    "name": "Ning Umi Laila 1",
    "image_url": "file:///android_asset/image/um.jpeg",
-   "video_url": "file:///android_asset/video/v.mp4",
-   "voice_url": "1.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/ningUmi.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/1.mp3"
  },
  {
    "id": 2,
    "name": "Ning Umi Laila 2",
    "image_url": "file:///android_asset/image/um2.png",
-   "video_url": "file:///android_asset/video/v2.mp4",
-   "voice_url": "2.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/ningUmi2.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/2.mp3"
  },
  {
    "id": 3,
    "name": "Ning Umi Laila 3",
    "image_url": "file:///android_asset/image/um3.jpg",
-   "video_url": "file:///android_asset/video/v3.mp4",
-   "voice_url": "file:///android_asset/3.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/3.mp3"
  },
  {
    "id": 4,
    "name": "Ning Umi Laila 4",
    "image_url": "file:///android_asset/image/um4.jpg",
-   "video_url": "file:///android_asset/video/v4.mp4",
-   "voice_url": "file:///android_asset/4.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v2.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/4.mp3"
  },
  {
    "id": 5,
    "name": "Ning Umi Laila 5",
    "image_url": "file:///android_asset/image/um5.png",
-   "video_url": "file:///android_asset/video/v5.mp4",
-   "voice_url": "file:///android_asset/5.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v3.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/5.mp3"
  },
  {
    "id": 6,
    "name": "Ning Umi Laila 6",
    "image_url": "file:///android_asset/image/um6.jpeg",
-   "video_url": "file:///android_asset/video/v6.mp4",
-   "voice_url": "file:///android_asset/1.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v4.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/1.mp3"
  },
  {
    "id": 7,
    "name": "Ning Umi Laila 7",
    "image_url": "file:///android_asset/image/um7.jpg",
-   "video_url": "file:///android_asset/video/v7.mp4",
-   "voice_url": "file:///android_asset/2.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v5.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/2.mp3"
  },
  {
    "id": 8,
    "name": "Ning Umi Laila 8",
    "image_url": "file:///android_asset/image/um7.png",
-   "video_url": "file:///android_asset/video/v8.mp4",
-   "voice_url": "file:///android_asset/3.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v6.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/3.mp3"
  },
  {
    "id": 9,
    "name": "Ning Umi Laila 9",
    "image_url": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/09/Ning-Umi-Laila-3721146586.jpg",
-   "video_url": "file:///android_asset/video/ningUmi.mp4",
-   "voice_url": "file:///android_asset/4.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v7.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/4.mp3"
  },
  {
    "id": 10,
    "name": "Ning Umi Laila 10",
    "image_url": "https://malangterkini.pikiran-rakyat.com/khazanah/pr-1255820604/profil-dan-biodata-ning-umi-laila-penyanyi-religi-sekaligus-ustadzah-muda",
-   "video_url": "file:///android_asset/video/ningUmi2.mp4",
-   "voice_url": "file:///android_asset/5.mp3"
+   "video_url": "http://archive.org/download/v3_20230328/v8.mp4",
+   "voice_url": "http://archive.org/download/v3_20230328/5.mp3"
  }
   ]
 
