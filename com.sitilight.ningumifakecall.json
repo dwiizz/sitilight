@@ -91,14 +91,14 @@
    "name": "Ning Umi Laila 1",
    "image_url": "file:///android_asset/image/um.jpeg",
    "video_url": "file:///android_asset/video/v.mp4",
-   "voice_url": "file:///android_asset/1.mp3"
+   "voice_url": "1.mp3"
  },
  {
    "id": 2,
    "name": "Ning Umi Laila 2",
    "image_url": "file:///android_asset/image/um2.png",
    "video_url": "file:///android_asset/video/v2.mp4",
-   "voice_url": "file:///android_asset/2.mp3"
+   "voice_url": "2.mp3"
  },
  {
    "id": 3,
