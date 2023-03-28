@@ -1,8 +1,8 @@
 {
   "Ads": [
       {
-     "select_main_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
+     "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-STARTAPP",
       "main_ads_banner": "-9488296014066778/6385455077",
       "main_ads_intertitial":"-pub-9488296014066778/9352182152",
       "main_ads_natives":"-9488296014066778/5820131258",
@@ -88,17 +88,73 @@
   [
       {
    "id": 1,
-   "name": "Master Latto Latto 1",
-   "image_url": "file:///android_asset/image/latho latho (2).jpg",
-   "video_url": "http://archive.org/download/lord-arnold-3/CaraLato.mp4",
-   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
+   "name": "Ning Umi Laila 1",
+   "image_url": "file:///android_asset/image/um.jpeg",
+   "video_url": "file:///android_asset/image/v.mp4",
+   "voice_url": "file:///android_asset/1.mp3"
  },
-     {
+ {
+   "id": 2,
+   "name": "Ning Umi Laila 2",
+   "image_url": "file:///android_asset/image/um2.png",
+   "video_url": "file:///android_asset/image/v2.mp4",
+   "voice_url": "file:///android_asset/2.mp3"
+ },
+ {
+   "id": 3,
+   "name": "Ning Umi Laila 3",
+   "image_url": "file:///android_asset/image/um3.jpg",
+   "video_url": "file:///android_asset/image/v3.mp4",
+   "voice_url": "file:///android_asset/3.mp3"
+ },
+ {
+   "id": 4,
+   "name": "Ning Umi Laila 4",
+   "image_url": "file:///android_asset/image/um4.jpg",
+   "video_url": "file:///android_asset/image/v4.mp4",
+   "voice_url": "file:///android_asset/4.mp3"
+ },
+ {
+   "id": 5,
+   "name": "Ning Umi Laila 5",
+   "image_url": "file:///android_asset/image/um5.png",
+   "video_url": "file:///android_asset/image/v5.mp4",
+   "voice_url": "file:///android_asset/5.mp3"
+ },
+ {
+   "id": 6,
+   "name": "Ning Umi Laila 6",
+   "image_url": "file:///android_asset/image/um6.jpeg",
+   "video_url": "file:///android_asset/image/v6.mp4",
+   "voice_url": "file:///android_asset/1.mp3"
+ },
+ {
    "id": 7,
-   "name": "Master Latho2 Palsu",
-   "image_url": "file:///android_asset/image/latho latho (1).jpeg",
-   "video_url": "http://archive.org/download/lord-arnold-3/lato.mp4",
-   "voice_url": "https://download850.mediafire.com/zlietk4dnhrg/pg3w6vs577qtxpp/lat.mp3"
+   "name": "Ning Umi Laila 7",
+   "image_url": "file:///android_asset/image/um7.jpg",
+   "video_url": "file:///android_asset/image/v7.mp4",
+   "voice_url": "file:///android_asset/2.mp3"
+ },
+ {
+   "id": 8,
+   "name": "Ning Umi Laila 8",
+   "image_url": "file:///android_asset/image/um7.png",
+   "video_url": "file:///android_asset/image/v8.mp4",
+   "voice_url": "file:///android_asset/3.mp3"
+ },
+ {
+   "id": 9,
+   "name": "Ning Umi Laila 9",
+   "image_url": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/09/Ning-Umi-Laila-3721146586.jpg",
+   "video_url": "file:///android_asset/image/ningUmi.mp4",
+   "voice_url": "file:///android_asset/4.mp3"
+ },
+ {
+   "id": 10,
+   "name": "Ning Umi Laila 10",
+   "image_url": "https://malangterkini.pikiran-rakyat.com/khazanah/pr-1255820604/profil-dan-biodata-ning-umi-laila-penyanyi-religi-sekaligus-ustadzah-muda",
+   "video_url": "file:///android_asset/image/ningUmi2.mp4",
+   "voice_url": "file:///android_asset/5.mp3"
  }
   ]
 
