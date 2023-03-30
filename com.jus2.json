@@ -30,25 +30,33 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Juice WRLD",
-      "image": "https://hiphopkit.com/music/download/14570/"
+      "name_category": "Juice",
+      "image": "file:///android_asset/image/icon.png"
     }
   ],
   "Data": [
     {
    "id": 1,
    "name_category": "Juice",
-   "title": "Face 2 Face",
-   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/12/Juice-WRLD-Face-2-Face-artwork.jpeg",
-   "link_mp3": "vegetable juice",
+   "title": "Banana",
+   "image": "file:///android_asset/image/icon.png",
+   "link_mp3": "file:///android_asset/music/Banana.mp3",
    "lyrics": ""
  },
      {
-   "id": 40,
+   "id": 1,
    "name_category": "Juice",
-   "title": "All Girls Are The Same",
-   "image": "https://i0.wp.com/hiphopkit.com/uploads/2022/05/Juice-WRLD-All-Girls-Are-The-Same-artwork.jpg?ulb=false&ssl=1&resize=320,350",
-   "link_mp3": "fruit juice",
+   "title": "Fruite Juice",
+   "image": "file:///android_asset/image/icon.png",
+   "link_mp3": "file:///android_asset/music/Fruit-Juice.mp3",
+   "lyrics": ""
+ },
+     {
+   "id": 1,
+   "name_category": "Juice",
+   "title": "Yummy",
+   "image": "file:///android_asset/image/icon.png",
+   "link_mp3": "file:///android_asset/music/Yummy-Fruits.mp3",
    "lyrics": ""
  }
   ]
