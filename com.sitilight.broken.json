@@ -47,7 +47,7 @@
   "Categories": [
    {
    "id": 1,
-   "name_category": "Screen 1,
+   "name_category": "Screen 1",
    "image": "http://archive.org/download/file-87/file%20%28105%29.jpg"
  },
      {
@@ -57,7 +57,7 @@
  },
      {
    "id": 4,
-   "name_category": "Screen 3,
+   "name_category": "Screen 3",
    "image": "http://archive.org/download/file-87/file%20%2831%29.jpg"
  },
  {
