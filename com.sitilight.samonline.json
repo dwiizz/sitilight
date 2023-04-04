@@ -131,6 +131,14 @@
    "description": "Pengisian NOPOL Kendaraan Harus MENGGUNAKAN HURUF BESAR.",
    "link": "file:///android_asset/petunjuk.html"
  },
+  {
+   "id": 4,
+   "name_category": "Pajak",
+   "title": "Daftar Pemutihan LAMPUNG",
+   "image": "http://keringanan.lampungprov.go.id/keringananpkb/app/assets/images/background.jpg",
+   "description": "Cara daftar pemutihan pajak di LAMPUNG",
+   "link": "http://keringanan.lampungprov.go.id/keringananpkb/mainview"
+ },
  {
    "id": 4,
    "name_category": "Pajak",
