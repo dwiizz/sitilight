@@ -43,10 +43,22 @@
    "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
  },
      {
-   "id": 13,
-   "title": "Juice WRLD Music Free",
-   "image": "https://play-lh.googleusercontent.com/xUSfVFsR_rHOgTZxK3zkR2c7rFO6Jro8wqBy8F3fFaLkN9ZlSTZE98_FfArMS6GXAg=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.juice"
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Scream 6 Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
  },
      {
    "id": 1,
@@ -59,6 +71,31 @@
    "title": "Wednesday Addams Fake VCall",
    "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+ {
+   "id": 1,
+   "title": "Gacha GL Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
  }
   ],
 
