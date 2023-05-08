@@ -115,6 +115,11 @@
   ],
 
   "Categories": [
+     {
+   "id": 1,
+   "name_category": "Gacha New",
+   "image": "https://i.pinimg.com/736x/46/53/9c/46539cfd2b3b20ac6867e0653ade0d22.jpg"
+ },
    {
    "id": 1,
    "name_category": "Gacha",
@@ -144,6 +149,120 @@
 
   "Data":
   [
+     {
+   "id": 405,
+   "name_category": "Gacha New",
+   "title": "Gacha New 2",
+   "image": "https://i.pinimg.com/736x/e4/c7/0d/e4c70d0c2480e8afde0c0ca1525f2c1f.jpg"
+ },
+ {
+   "id": 406,
+   "name_category": "Gacha New",
+   "title": "Gacha New 3",
+   "image": "https://i.pinimg.com/736x/b0/2a/67/b02a67feefebe4e9becdedb6bdbf992a.jpg"
+ },
+ {
+   "id": 407,
+   "name_category": "Gacha New",
+   "title": "Gacha New 4",
+   "image": "https://i.pinimg.com/736x/1f/4d/2f/1f4d2f063f0cdbe42e2f4c21c1652ba2.jpg"
+ },
+ {
+   "id": 408,
+   "name_category": "Gacha New",
+   "title": "Gacha New 5",
+   "image": "https://i.pinimg.com/736x/ac/1c/e4/ac1ce441f2bb9ed82fd1e6a9e8991255.jpg"
+ },
+ {
+   "id": 409,
+   "name_category": "Gacha New",
+   "title": "Gacha New 6",
+   "image": "https://i.pinimg.com/736x/9a/ab/f0/9aabf00d656cc9daee2cbbedb5b06044.jpg"
+ },
+ {
+   "id": 410,
+   "name_category": "Gacha New",
+   "title": "Gacha New 7",
+   "image": "https://i.pinimg.com/736x/d0/48/b5/d048b55e53121721646d674445958fdb.jpg"
+ },
+ {
+   "id": 411,
+   "name_category": "Gacha New",
+   "title": "Gacha New 8",
+   "image": "https://i.pinimg.com/736x/31/35/56/31355690ba7d4d3ee60c9f6c47012f50.jpg"
+ },
+ {
+   "id": 412,
+   "name_category": "Gacha New",
+   "title": "Gacha New 9",
+   "image": "https://i.pinimg.com/736x/62/09/a0/6209a0988eca36cda2fe2aef192efc24.jpg"
+ },
+ {
+   "id": 413,
+   "name_category": "Gacha New",
+   "title": "Gacha New 10",
+   "image": "https://i.pinimg.com/736x/24/c6/06/24c606de7632accff30e77c85aa3a275.jpg"
+ },
+ {
+   "id": 414,
+   "name_category": "Gacha New",
+   "title": "Gacha New 11",
+   "image": "https://i.pinimg.com/736x/b4/62/44/b462446e1c750571dfa71aa2d4e1481a.jpg"
+ },
+ {
+   "id": 415,
+   "name_category": "Gacha New",
+   "title": "Gacha New 12",
+   "image": "https://i.pinimg.com/736x/80/3a/c9/803ac9dec006b5e635783048027a36ac.jpg"
+ },
+ {
+   "id": 416,
+   "name_category": "Gacha New",
+   "title": "Gacha New 13",
+   "image": "https://i.pinimg.com/736x/61/ac/3a/61ac3ac44481d9b51396d9433b22a544.jpg"
+ },
+ {
+   "id": 417,
+   "name_category": "Gacha New",
+   "title": "Gacha New 14",
+   "image": "https://i.pinimg.com/736x/69/3a/48/693a4874f08c355e0abb6c99c1e53b48.jpg"
+ },
+ {
+   "id": 418,
+   "name_category": "Gacha New",
+   "title": "Gacha New 15",
+   "image": "https://i.pinimg.com/736x/8d/b3/00/8db3003a005df6c2f80c75791e02fe10.jpg"
+ },
+ {
+   "id": 419,
+   "name_category": "Gacha New",
+   "title": "Gacha New 16",
+   "image": "https://i.pinimg.com/736x/45/59/08/4559082209fcbb5841221fc314334fa3.jpg"
+ },
+ {
+   "id": 420,
+   "name_category": "Gacha New",
+   "title": "Gacha New 17",
+   "image": "https://i.pinimg.com/736x/18/9e/3d/189e3de8b18146d9a2cb7053af426f88.jpg"
+ },
+ {
+   "id": 421,
+   "name_category": "Gacha New",
+   "title": "Gacha New 18",
+   "image": "https://i.pinimg.com/736x/3b/29/db/3b29db001789f1cf1b37b7707b5454b1.jpg"
+ },
+ {
+   "id": 422,
+   "name_category": "Gacha New",
+   "title": "Gacha New 19",
+   "image": "https://i.pinimg.com/736x/46/53/9c/46539cfd2b3b20ac6867e0653ade0d22.jpg"
+ },
+ {
+   "id": 423,
+   "name_category": "Gacha New",
+   "title": "Gacha New 20",
+   "image": "https://i.pinimg.com/736x/c5/66/1a/c5661a4a74b5dcbf92bd4928b9f84d75.jpg"
+ },
  {
    "id": 249,
    "name_category": "Gacha3",
