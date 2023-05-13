@@ -118,6 +118,11 @@
   ],
 
   "Categories": [
+     {
+   "id": 1,
+   "name_category": "Toca New",
+   "image": "https://raw.githubusercontent.com/guujoy/toca_wallpaper/main/image/139.jpg"
+ },
    {
    "id": 1,
    "name_category": "Wednesday",
