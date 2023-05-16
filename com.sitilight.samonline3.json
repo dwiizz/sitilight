@@ -2,20 +2,20 @@
   "Ads": [
     {
       
-      "select_main_ads": "STARTAPP",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "123456",
-      "main_ads_intertitial":"123456",
-      "main_ads_natives":"123456",
+      "main_ads_banner": "ca-app-pub-2365282461254996/9768839263",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/5330900803",
+      "main_ads_natives":"ca-app-pub-2365282461254996/2002067870",
       "backup_ads_natives":"123456",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
-      "open_ads_admob":"ca-app-pub-4854064161928866/1301316602",
+      "open_ads_admob":"ca-app-pub-2365282461254996/5554262085",
       "open_ads_alien":"123",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"0",
-      "interval_intertitial": 5,
-      "initialize_sdk":"203773357",
+      "interval_intertitial": 7,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"203773357",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -27,6 +27,12 @@
     }
   ],
     "More": [
+       {
+   "id": 18,
+   "title": "Dangdut Viral Terbaru",
+   "image": "https://play-lh.googleusercontent.com/6O74VpJ19ho22wCeXhofek-ARBGzinlo9bT93X9QIFqrlWnX1T4YvLqSebSZioQpMc4=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.adella"
+ },
      {
    "id": 1,
    "title": "Cewe Sexy Wallpaper 4K",
@@ -66,12 +72,7 @@
    "image": "https://play-lh.googleusercontent.com/bqWD7MsvGNqF7lY3hNL8BNeSeJYMRezbl9t4TaZnP7yYvyMIK4U1lZUv3K_0xiKd1glL=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.sitilight.fake.ning_umi_laila"
  },
-       {
-   "id": 18,
-   "title": "Full Album Adella Terbaru",
-   "image": "https://play-lh.googleusercontent.com/6O74VpJ19ho22wCeXhofek-ARBGzinlo9bT93X9QIFqrlWnX1T4YvLqSebSZioQpMc4=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.sitilight.adella"
- },
+      
  {
    "id": 11,
    "title": "Twibbon Maker : Photo Frame",
