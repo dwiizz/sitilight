@@ -31,17 +31,111 @@
   ],
   "More":
   [
+      {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+     {
+   "id": 4,
+   "title": "Who's Your Daddy 2 HD",
+   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+ },
+    {
+   "id": 4,
+   "title": "Amanda Adventurer 2 Wallpapper",
+   "image": "https://play-lh.googleusercontent.com/L8sojGG2Jg94P7b1dSDHYMYG_QizuwlT21fUxpgSTSld08yv8i1ImrSH5oVXTptDk4w=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.amanda"
+ },
+    {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
      {
    "id": 1,
-   "title": "Love Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/0eHW8CXg4aI_mBqP7sxiiR-_6_6bdy2RX2PfLDMID7gn1FVoBFBCFTMeKISH8T0BPvXH=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.lovewallpaper"
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+    {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams Family HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
  },
      {
    "id": 13,
-   "title": "Cek BPKB Online",
-   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+   "title": "Jenna Ortega in Scream 6",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Gacha 2 HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+   
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
  }
   ],
 
