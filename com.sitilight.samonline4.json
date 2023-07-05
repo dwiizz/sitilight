@@ -1,0 +1,418 @@
+{
+  "Ads": [
+    {
+      
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2365282461254996/9768839263",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/5330900803",
+      "main_ads_natives":"ca-app-pub-2365282461254996/2002067870",
+      "backup_ads_natives":"60b8917d1556c547",
+      "backup_ads_banner":"00fa2bd796e64bd0",
+      "backup_ads_intertitial":"b301c4bddc08bdc0",
+      "open_ads_admob":"ca-app-pub-2365282461254996/5554262085",
+      "open_ads_alien":"123",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.ydf.samonline"
+    }
+  ],
+    "More": [
+       {
+   "id": 18,
+   "title": "Dangdut Viral Terbaru",
+   "image": "https://play-lh.googleusercontent.com/6O74VpJ19ho22wCeXhofek-ARBGzinlo9bT93X9QIFqrlWnX1T4YvLqSebSZioQpMc4=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.adella"
+ },
+     {
+   "id": 1,
+   "title": "Cewe Sexy Wallpaper 4K",
+   "image": "https://play-lh.googleusercontent.com/LA_KXSg7PO3e-lkwmZtt-fxgzUxctC6BMenEkRFSuN3qfLwkUSRAH7T4tSfkkRu6mg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cutegirlwallpaper"
+ },
+     
+{
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+
+ 
+ {
+   "id": 9,
+   "title": "Cek Pajak Kendaraan Nasional",
+   "image": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.ydf.samonline"
+ },
+  {
+   "id": 13,
+   "title": "Gacha GL Free",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+       {
+   "id": 16,
+   "title": "Sholawat Ning Umi Laila",
+   "image": "https://play-lh.googleusercontent.com/U9Mwom_pEjYvhPULdlpkxNS1dPnTMQVQPVAvwQdiw6tg9pOaC5j_cMIxxUcj0tX3JUo=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.ning_umi_laila"
+ },
+       {
+   "id": 17,
+   "title": "Video Call bareng Ning Umi Cantik",
+   "image": "https://play-lh.googleusercontent.com/bqWD7MsvGNqF7lY3hNL8BNeSeJYMRezbl9t4TaZnP7yYvyMIK4U1lZUv3K_0xiKd1glL=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.fake.ning_umi_laila"
+ },
+      
+ {
+   "id": 11,
+   "title": "Twibbon Maker : Photo Frame",
+   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
+ },
+
+ {
+   "id": 13,
+   "title": "Cek BPKB Online",
+   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+ }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Informasi",
+      "image": "https://w7.pngwing.com/pngs/617/409/png-transparent-round-black-i-logo-computer-icons-symbol-details-free-miscellaneous-text-trademark.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Petunjuk",
+      "image": "https://img.lovepik.com/free-png/20210918/lovepik-book-book-png-image_400238641_wh1200.png"
+    },
+    {
+      "id": 3,
+      "name_category": "Pajak",
+      "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Kode Bayar",
+      "image": "https://img.lovepik.com/free-png/20211214/lovepik-female-white-collar-showing-mobile-phone-png-image_401612364_wh860.png"
+    },
+    {
+      "id": 5,
+      "name_category": "Cetak",
+      "image": "https://www.pngitem.com/pimgs/m/197-1973039_manage-print-services-print-icon-in-computer-hd.png"
+    }
+    
+  ],
+  "Data": 
+     
+[
+ {
+   "id": 1,
+   "name_category": "Informasi",
+   "title": "Informasi Pemutihan Terbaru 2023",
+   "image": "https://i.pinimg.com/736x/5c/49/4f/5c494f52a37d3f77ad3c21b6dd9d63e5.jpg",
+   "description": "Berikut beberapa wilayah yang sedang melaksanakan pemutihan :",
+   "link": "https://samolnas.wordpress.com/?s=pemutihan"
+ },
+ {
+   "id": 2,
+   "name_category": "Syarat",
+   "title": "Syarat dan Ketentuan",
+   "image": "https://i.pinimg.com/736x/4d/7e/9d/4d7e9d9ed7899ab2e209f390bfe30874.jpg",
+   "description": "Silakan Dibaca Sebelum Menggunakan Aplikasi Ini",
+   "link": "file:///android_asset/syarat.html"
+ },
+ {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Pertanyaan Yang sering Ditanyakan",
+   "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
+   "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
+   "link": "file:///android_asset/tanya.html"
+ },
+ {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Cara Pengisian NOPOL",
+   "image": "https://i.pinimg.com/736x/e6/9a/87/e69a87ce3d784b4c010c61872ceab3be.jpg",
+   "description": "Pengisian NOPOL Kendaraan Harus MENGGUNAKAN HURUF BESAR.",
+   "link": "file:///android_asset/petunjuk.html"
+ },
+  {
+   "id": 4,
+   "name_category": "Pajak",
+   "title": "Daftar Pemutihan LAMPUNG",
+   "image": "http://keringanan.lampungprov.go.id/keringananpkb/app/assets/images/background.jpg",
+   "description": "Cara daftar pemutihan pajak di LAMPUNG",
+   "link": "http://keringanan.lampungprov.go.id/keringananpkb/mainview"
+ },
+ {
+   "id": 4,
+   "name_category": "Pajak",
+   "title": "ACEH",
+   "image": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi ACEH",
+   "link": "https://esamsat.acehprov.go.id/"
+ },
+ {
+   "id": 5,
+   "name_category": "Pajak",
+   "title": "JAWA TiMUR",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi JAWA TIMUR",
+   "link": "https://info.dipendajatim.go.id/index.php?page=info_pkb"
+ },
+ {
+   "id": 6,
+   "name_category": "Kode Bayar",
+   "title": "JAWA TiMUR",
+   "image": "https://i.pinimg.com/736x/31/09/50/3109505fe2c7cfdbf451a4d73ac8ec93.jpg",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "https://info.dipendajatim.go.id/esamsat/"
+ },
+ {
+   "id": 7,
+   "name_category": "Cetak",
+   "title": "JAWA TiMUR",
+   "image": "https://www.pngitem.com/pimgs/m/197-1973039_manage-print-services-print-icon-in-computer-hd.png",
+   "description": "Untuk Cetak E-TBPKB Klik Disini",
+   "link": "https://info.dipendajatim.go.id/index.php?page=info_etbpkp"
+ },
+ {
+   "id": 8,
+   "name_category": "Pajak",
+   "title": "JAWA TENGAH",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi JAWA TENGAH",
+   "link": "https://bapenda.jatengprov.go.id/info-kendaraan-bermotor/"
+ },
+ {
+   "id": 9,
+   "name_category": "Pajak",
+   "title": "JAWA BARAT",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi JAWA BARAT",
+   "link": "https://bapenda.jabarprov.go.id/infopkb/"
+ },
+ {
+   "id": 6,
+   "name_category": "Kode Bayar",
+   "title": "JAWA BARAT",
+   "image": "https://i.pinimg.com/736x/31/09/50/3109505fe2c7cfdbf451a4d73ac8ec93.jpg",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "https://bapenda.jabarprov.go.id/infopkb/"
+ },
+ {
+   "id": 7,
+   "name_category": "Cetak",
+   "title": "JAWA BARAT",
+   "image": "https://www.pngitem.com/pimgs/m/197-1973039_manage-print-services-print-icon-in-computer-hd.png",
+   "description": "Untuk Cetak E-TBPKB Klik Disini",
+   "link": "https://sambara.puslia.jabarprov.go.id/sambara_v2/landing/cekbayar"
+ },
+ {
+   "id": 10,
+   "name_category": "Pajak",
+   "title": "DKI JAKARTA",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi DKI JAKARTA",
+   "link": "https://raw.githubusercontent.com/dwiizz/sitilight/main/dki.json"
+ },
+ {
+   "id": 11,
+   "name_category": "Pajak",
+   "title": "BANTEN",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi BANTEN",
+   "link": "http://36.67.59.193:8484/infopkb/"
+ },
+ {
+   "id": 12,
+   "name_category": "Pajak",
+   "title": "BALI",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi BALI",
+   "link": "https://portal.bpdbali.id/infosamsat/"
+ },
+ {
+   "id": 13,
+   "name_category": "Pajak",
+   "title": "SUMATERA UTARA",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SUMATERA UTARA",
+   "link": "https://bpprd.sumutprov.go.id/e-samsat/pages/index.php"
+ },
+ {
+   "id": 14,
+   "name_category": "Kode Bayar",
+   "title": "SUMATERA UTARA",
+   "image": "https://i.pinimg.com/736x/31/09/50/3109505fe2c7cfdbf451a4d73ac8ec93.jpg",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "https://bpprd.sumutprov.go.id/e-samsat/pages/index.php?temp=menu2"
+ },
+ {
+   "id": 15,
+   "name_category": "Pajak",
+   "title": "SUMATERA BARAT",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SUMATERA BARAT",
+   "link": "https://bapenda.sumbarprov.go.id/content/info_pajak_kendaraan"
+ },
+ {
+   "id": 16,
+   "name_category": "Pajak",
+   "title": "SUMATERA SELATAN",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SUMATERA SELATAN",
+   "link": "https://bapenda.sumselprov.go.id/cek_pajak/teliti_ulang"
+ },
+ {
+   "id": 17,
+   "name_category": "Pajak",
+   "title": "BENGKULU",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi BENGKULU",
+   "link": ""
+ },
+ {
+   "id": 18,
+   "name_category": "Pajak",
+   "title": "RIAU",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi RIAU",
+   "link": "https://badanpendapatan.riau.go.id/infopajak/"
+ },
+ {
+   "id": 19,
+   "name_category": "Pajak",
+   "title": "KEPULAUAN RIAU",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi KEPULAUAN RIAU",
+   "link": "http://203.130.248.194:81/info/"
+ },
+ {
+   "id": 14,
+   "name_category": "Kode Bayar",
+   "title": "KEPULAUAN RIAU",
+   "image": "https://i.pinimg.com/736x/31/09/50/3109505fe2c7cfdbf451a4d73ac8ec93.jpg",
+   "description": "Untuk mendapatkan KODE BAYAR klik Disini",
+   "link": "http://dispenda.kepriprov.go.id/#esamsat"
+ },
+ {
+   "id": 20,
+   "name_category": "Pajak",
+   "title": "JAMBI",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi JAMBI",
+   "link": "http://jambisamsat.net/infopkb.html"
+ },
+ {
+   "id": 21,
+   "name_category": "Pajak",
+   "title": "LAMPUNG",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi LAMPUNG",
+   "link": "http://pkb.bapenda.lampungprov.go.id/pkb/"
+ },
+ {
+   "id": 22,
+   "name_category": "Pajak",
+   "title": "KALIMANTAN BARAT",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi KALIMANTAN BARAT",
+   "link": "https://www.instagram.com/p/CdVMu83LQhB/?utm_source=ig_embed&ig_rid=a714d2ac-eafa-41ce-8f73-c5726fd35f30"
+ },
+ {
+   "id": 23,
+   "name_category": "Pajak",
+   "title": "KALIMANTAN TIMUR",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi KALIMANTAN TIMUR",
+   "link": "http://simpator.kaltimprov.go.id/cari.php"
+ },
+ {
+   "id": 24,
+   "name_category": "Pajak",
+   "title": "KALIMANTAN TENGAH",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi KALIMANTAN TENGAH",
+   "link": "https://info.samsatkalteng.id/"
+ },
+ {
+   "id": 25,
+   "name_category": "Pajak",
+   "title": "KALIMANTAN SELATAN",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan ProvinsiKALIMANTAN SELATAN",
+   "link": "https://bakeuda.kalselprov.go.id/"
+ },
+ {
+   "id": 26,
+   "name_category": "Pajak",
+   "title": "SULAWESI UTARA",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SULAWESI UTARA",
+   "link": "http://dispenda.sulutprov.go.id/index.php?page=cekpajak"
+ },
+ {
+   "id": 27,
+   "name_category": "Pajak",
+   "title": "SULAWESI TENGAH",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SULAWESI TENGAH",
+   "link": "https://bapenda.sultengprov.go.id/pkb"
+ },
+ {
+   "id": 28,
+   "name_category": "Pajak",
+   "title": "SULAWESI SELATAN",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi SULAWESI SELATAN",
+   "link": "https://bapendasulsel.web.id/v1/sms-info-pajak-kendaraan/"
+ },
+ {
+   "id": 29,
+   "name_category": "Pajak",
+   "title": "MALUKU",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi MALUKU",
+   "link": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx"
+ },
+ {
+   "id": 30,
+   "name_category": "Pajak",
+   "title": "NUSA TENGGARA BARAT",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi NTB",
+   "link": "https://bappenda.ntbprov.go.id/infopkb"
+ },
+ {
+   "id": 31,
+   "name_category": "Pajak",
+   "title": "NUSA TENGGARA TIMUR",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi NTT",
+   "link": "https://samsat.bpdntt.co.id/"
+ },
+ {
+   "id": 32,
+   "name_category": "Pajak",
+   "title": "PAPUA",
+   "image": "https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg",
+   "description": "Cek Pajak Kendaraan Provinsi PAPUA",
+   "link": "http://180.250.219.60:81/cekpajak/"
+ }
+]
+}
