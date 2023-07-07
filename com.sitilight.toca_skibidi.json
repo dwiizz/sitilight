@@ -1,0 +1,259 @@
+{
+  "Ads": [
+   {
+      "select_main_ads": "-ADMOB",
+      "select_backup_ads":"-APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2365282461254996/2989945983",
+      "main_ads_intertitial":"ca-app-pub-2365282461254996/5635440566",
+      "main_ads_natives":"ca-app-pub-2365282461254996/1097429759",
+      "main_ads_rewards":"ca-app-pub-2365282461254996/8668760029",
+      "backup_ads_natives":"cb386b4042a4438f",
+      "backup_ads_banner":"2809705bd25bfd16",
+      "backup_ads_intertitial":"a253f146eec44abd",
+      "backup_ads_rewards":"e3c68e415bff9464",
+      "open_ads_admob":"ca-app-pub-2365282461254996/7355678356",
+      "open_ads_alien":"",
+      "open_ads_max":"0d0a04d65f761cae",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"J-lVpXbHyumUWsu1bwEwtGn2hHmLx6C2bqOJf981D837_yX93nmJClSRkUOCB875OFCUFQbqimV8KhnTquqV56",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+     {
+   "id": 4,
+   "title": "Gacha Plus HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/l6hjuoZqetQyJQAJ381mklSMHBPX77aqGXGW_4itKeMtq10bz53Er3UuhCD_sRnPZg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gachaplus"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Room Ideas",
+   "image": "https://play-lh.googleusercontent.com/cguCjlxWtdD2Uxa_pz0QdLVQ1UyV7clWDjxdqNrAf3pbLLu37PVRy0HY8Y8jAZQ_maE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.toca_room"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
+ },
+    {
+   "id": 4,
+   "title": "Who's Your Daddy 2 HD",
+   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
+ },
+    {
+   "id": 4,
+   "title": "Amanda Adventurer 2 Wallpapper",
+   "image": "https://play-lh.googleusercontent.com/L8sojGG2Jg94P7b1dSDHYMYG_QizuwlT21fUxpgSTSld08yv8i1ImrSH5oVXTptDk4w=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.amanda"
+ },
+     {
+   "id": 4,
+   "title": "Toca Boca Outfit Ideas",
+   "image": "https://play-lh.googleusercontent.com/jfieKnJ6L-7oYYM_6TWH4SZ81xkIXNdezV2JOnOPI7vs9ZBEz_kJfua5YV444p1SyMg=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_outfit"
+ },
+     {
+   "id": 1,
+   "title": "Wednesday Addams HD Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/QaIkWPuN9qfDjL8coR5yAHEV0pg0w9LKYz4PvTCCR4aRGTxj8jbRqarFbjzMtE-NWYE=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.wednesday_addams"
+ },
+     {
+   "id": 13,
+   "title": "Gacha GL Free",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+    {
+   "id": 1,
+   "title": "Gacha 2",
+   "image": "https://play-lh.googleusercontent.com/GXceIh263PKyU5CIoUdhx0shN68qf3GnD1ofwvxmh-qQN-uCuy03MrXa-yA7Md0PKQ=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha"
+ },
+     {
+   "id": 1,
+   "title": "Toca Boca Wednesday",
+   "image": "https://play-lh.googleusercontent.com/k95VZlu_7cYSxneTk2WI-nhnzbielE7CYyjQjFQDVgab1Fbod8Y6NzvmDfumAvV1YOYM=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.tocaboca_wednesday"
+ },
+    {
+   "id": 1,
+   "title": "Scream 6 Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/34xmdFOHcagfo2TdjDs6_1i2WiwEa-sqbp2ISPidWeok7wBrIYduw2_l4YdtHqou5_I=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.scream6"
+ },
+     {
+   "id": 1,
+   "title": "Broken Screen 4K",
+   "image": "https://play-lh.googleusercontent.com/sgktEtXjuVE8KNb6BwtN1Gt0U-1tB2YetPyu6fEfvghHy65obe39vCTaYYJkAmOXPAIy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.broken_screen"
+ },
+     {
+   "id": 1,
+   "title": "DragonBall",
+   "image": "https://play-lh.googleusercontent.com/JIZAJER9vCxmtiNBHBS47ef5KTLccGx60ccg4sksdYQFSEz8IxJnZoTnOVV_56KnpDs=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.dragon_ultra"
+ },
+    {
+   "id": 1,
+   "title": "Wednesday Addams Fake VCall",
+   "image": "https://play-lh.googleusercontent.com/1EoU8raGSrgij-8t4uItR0L8EhJXVrg45A2IoGts98bidpdEbNkyxbAiWLRgkfXDAtlt=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.fake.wednesday.addams"
+ },
+    
+{
+   "id": 1,
+   "title": "Creed 3 HD",
+   "image": "https://play-lh.googleusercontent.com/WkjfxzGDZbX4JT-5F6gKDUGHewWpLSPxSPI7cHVuC44uY-JjfE71U6CY2xZaDWYbu20=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.creed3"
+ },
+ {
+   "id": 1,
+   "title": "Gacha GL Wallpaper",
+   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
+ },
+ {
+   "id": 4,
+   "title": "Wednesday Adams Wallpapers",
+   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
+ },
+ {
+   "id": 5,
+   "title": "Preppy Wallpapers Pink",
+   "image": "https://play-lh.googleusercontent.com/XWzmWnW6sbirBe5KNZVqyrhpDaiKjdVuumDr3BFZWYAoPN0WGxR-JhcY1Qc-JtkYHA=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.gembul.preppywallpaper"
+ }
+  ],
+
+  "Categories": [
+    
+   {
+   "id": 1,
+   "name_category": "Skibidi Toilet",
+   "image": "https://i.pinimg.com/736x/53/60/7c/53607ca47f31bdcdfeb220414e1f7ffb.jpg"
+ },
+     {
+   "id": 1,
+   "name_category": "Camera Head",
+   "image": "http://archive.org/download/tocawedday-7/tocawedday%20%28105%29.jpg"
+ }
+     
+ 
+  ],
+
+  "Data":
+  [
+ {
+   "id": 1,
+   "name_category": "Skibidi Toilet",
+   "title": 1,
+   "image": "https://i.pinimg.com/736x/85/b4/73/85b473e3ea83751f6b1fb1de63babf22.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Skibidi Toilet",
+   "title": 2,
+   "image": "https://i.pinimg.com/736x/fe/92/10/fe92104898224894f72269083e6bce3d.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Skibidi Toilet",
+   "title": 3,
+   "image": "https://i.pinimg.com/736x/70/8c/ce/708cceb1c69ad5ad5f7c1f0730e71438.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Skibidi Toilet",
+   "title": 4,
+   "image": "https://i.pinimg.com/736x/06/7f/43/067f43b9890d124707910ed2c574f4a0.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Skibidi Toilet",
+   "title": 5,
+   "image": "https://i.pinimg.com/736x/e8/54/65/e85465bea11c9c852ba53653319683d3.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Skibidi Toilet",
+   "title": 6,
+   "image": "https://i.pinimg.com/736x/45/2f/5e/452f5e6561f23748e8fc119aea9c505e.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Skibidi Toilet",
+   "title": 7,
+   "image": "https://i.pinimg.com/736x/00/59/30/005930cbb431c9a6bad5fc04d3b40ef3.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Skibidi Toilet",
+   "title": 8,
+   "image": "https://i.pinimg.com/736x/c3/af/ac/c3afac652146c4d606004360a6e46033.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Skibidi Toilet",
+   "title": 9,
+   "image": "https://i.pinimg.com/736x/b2/25/c0/b225c0cde31e9ba9a188b8560802f9e8.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Skibidi Toilet",
+   "title": 10,
+   "image": "https://i.pinimg.com/736x/3b/a2/cd/3ba2cd8c5b002deb3b3d3710425f5572.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Skibidi Toilet",
+   "title": 11,
+   "image": "https://i.pinimg.com/736x/11/e9/cf/11e9cfbb12d6b4a88064142b2e4e2b3e.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Skibidi Toilet",
+   "title": 12,
+   "image": "https://i.pinimg.com/736x/49/d3/e0/49d3e05268bf91c50a7c3415b8ec4eee.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Skibidi Toilet",
+   "title": 13,
+   "image": "https://i.pinimg.com/736x/1d/c8/1c/1dc81c590f3aafbf3007309a39802912.jpg"
+ },
+ {
+   "id": 14,
+   "name_category": "Skibidi Toilet",
+   "title": 14,
+   "image": "https://i.pinimg.com/736x/ff/10/95/ff1095dd43730ab6a7879e57d563384f.jpg"
+ },
+ {
+   "id": 15,
+   "name_category": "Skibidi Toilet",
+   "title": 15,
+   "image": "https://i.pinimg.com/736x/f5/19/d9/f519d9b32244e72cca558ec588c1b8c2.jpg"
+ },
+ {
+   "id": 16,
+   "name_category": "Skibidi Toilet",
+   "title": 16,
+   "image": "https://i.pinimg.com/736x/69/c4/4f/69c44f20c7c483a9682da6ae41db543c.jpg"
+ }
+]
+}
