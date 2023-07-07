@@ -108,7 +108,22 @@
    "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
    "link": "file:///android_asset/tanya.html"
  },
- 
+  {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Pertanyaan Yang sering Ditanyakan",
+   "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
+   "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
+   "link": "file:///android_asset/tanya.html"
+ },
+   {
+   "id": 3,
+   "name_category": "Petunjuk",
+   "title": "Pertanyaan Yang sering Ditanyakan",
+   "image": "https://i.pinimg.com/736x/fb/66/11/fb6611b21dedcbb6756016ad21edd997.jpg",
+   "description": "Kumpulan pertanyaan yang sering ditanyakan dan jawabannya",
+   "link": "file:///android_asset/tanya.html"
+ },
   {
    "id": 4,
    "name_category": "Pajak",
