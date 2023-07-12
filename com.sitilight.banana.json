@@ -145,13 +145,8 @@
     
    {
    "id": 1,
-   "name_category": "Skibidi Toilet",
-   "image": "https://i.pinimg.com/736x/b2/25/c0/b225c0cde31e9ba9a188b8560802f9e8.jpg"
- },
-     {
-   "id": 1,
-   "name_category": "Camera Head",
-   "image": "https://i.pinimg.com/736x/ff/10/95/ff1095dd43730ab6a7879e57d563384f.jpg"
+   "name_category": "Banana Cat",
+   "image": "file:///android_asset/image/a3.jpg"
  }
      
  
