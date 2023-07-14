@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/privacy/webview.html",
+      "privacy_policy_url": "https://sitilightdev.blogspot.com/2023/02/cek-pajak-motor-dan-mobil-privacy-policy.html",
       "user_agent": "",
       "navigation_drawer": true,
       "navigation_icon_solid_color": false,
@@ -22,33 +22,9 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
-      "toolbar": true
-    },
-    {
-      "name": "Aliendroid",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
-      "url_dark": "",
-      "toolbar": true
-    },
-    {
-      "name": "EasyApk",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/easyapk.png",
-      "url": "https://easyapk.id",
-      "url_dark": "",
-      "toolbar": true
-    },  
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html",
+      "icon": "https://img.lovepik.com/free-png/20210926/lovepik-calculator-icon-free-vector-illustration-material-png-image_401495032_wh1200.png",
+      "url": "file:///android_asset/home.html",
+      "url_dark": "file:///android_asset/home.html",
       "toolbar": true
     }
   ],
@@ -91,18 +67,5 @@
       "show_open_ad_on_app_resume": true
     }
   ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    }
-  ]
+  "more_apps": 
 }
