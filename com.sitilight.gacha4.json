@@ -32,9 +32,21 @@
   [
      {
    "id": 4,
+   "title": "Banana Cat Meme HD",
+   "image": "https://play-lh.googleusercontent.com/LqBSS-Wcmx_iDCwQweVFIx6EjidXddS5imZtHBXDtIa4_Fa-z_fK734wJesHTDbTmNE=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.bananacat"
+ },
+     {
+   "id": 4,
    "title": "Toca Boca Skibidi Toilet HD",
    "image": "https://play-lh.googleusercontent.com/edPddJXUuWl9R7_OTZqGa7_mdACbQRNQ5eOurzgSqGSnFOGu7dMUrsljMrZ2nYQtOIA=w2560-h1440",
    "link": "https://play.google.com/store/apps/details?id=com.sitilight.toca_skibidi"
+ },
+     {
+   "id": 4,
+   "title": "Gacha Life HD Style",
+   "image": "https://play-lh.googleusercontent.com/ZH1Spkon7qOQyBhCZTx3shkOlT4ZoZX1mWMBoJ1Th6y2BOddYq7Kusdmaf5QrLtTMw=w2560-h1440",
+   "link": "https://play.google.com/store/apps/details?id=com.sitilight.gacha_life"
  },
      {
    "id": 4,
@@ -54,12 +66,7 @@
    "image": "https://play-lh.googleusercontent.com/siwIwkxwSLp-Rx1ZYgdaLKWYRkm0sR1brsNHsux0ID0uh--321pt-dBN8m89y3FmoZI=w240-h480",
    "link": "https://play.google.com/store/apps/details?id=com.gembul.gacha_outfit"
  },
-     {
-   "id": 4,
-   "title": "Who's Your Daddy 2 HD",
-   "image": "https://play-lh.googleusercontent.com/56FVlinI091lWoG26bULUV7eOO4C7ml-TSUJQoqdSy1QnTFGxPYSc9o-gs25p-4ZSzI=w240-h480",
-   "link": "https://play.google.com/store/apps/details?id=com.gembul.daddy"
- },
+    
     {
    "id": 4,
    "title": "Amanda Adventurer 2 Wallpapper",
