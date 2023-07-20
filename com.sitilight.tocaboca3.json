@@ -162,6 +162,36 @@
   "Categories": [
      {
    "id": 1,
+   "name_category": "Toca",
+   "title": "qw1",
+   "image": "https://i.pinimg.com/564x/05/07/17/050717e513ea90296f459bfe19b097c6.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Toca",
+   "title": "qw2",
+   "image": "https://i.pinimg.com/564x/ba/88/b3/ba88b3cbeb9eaeaf5f7c36beafcc023d.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Toca",
+   "title": "qw3",
+   "image": "https://i.pinimg.com/564x/dd/7d/15/dd7d15d94962f2d470c4d00129904444.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Toca",
+   "title": "qw4",
+   "image": "https://i.pinimg.com/564x/a3/72/64/a372641da9860fd2219b80a8ddad28a2.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Toca",
+   "title": "qw5",
+   "image": "https://i.pinimg.com/564x/fe/10/59/fe10598f8685b1374dc23514d2d5c1c3.jpg"
+ },
+     {
+   "id": 1,
    "name_category": "Toca New",
    "image": "https://raw.githubusercontent.com/guujoy/toca_wallpaper/main/image/139.jpg"
  },
