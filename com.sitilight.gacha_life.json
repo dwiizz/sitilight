@@ -169,6 +169,11 @@
    "id": 4,
    "name_category": "Gacha Life 3",
    "image": "http://archive.org/download/image57/image94.jpg"
+ },
+    {
+   "id": 5,
+   "name_category": "Gacha Life 4",
+   "image": "https://i.pinimg.com/750x/e1/35/e0/e135e059f393364f0457b09d57276369.jpg"
  }
   ],
 
@@ -215,6 +220,84 @@
    "name_category": "Gacha Life 3",
    "title": 80,
    "image": "http://archive.org/download/image57/image79.jpg"
+ },
+     {
+   "id": 1,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.1",
+   "image": "https://i.pinimg.com/750x/b7/2b/89/b72b89840eee011a53ada37f2c0bcebe.jpg"
+ },
+ {
+   "id": 2,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.2",
+   "image": "https://i.pinimg.com/750x/16/95/6d/16956d36056b74ceff8babe80868a0cd.jpg"
+ },
+ {
+   "id": 3,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.3",
+   "image": "https://i.pinimg.com/750x/40/99/6b/40996ba962074ad0895cccf9065635b7.jpg"
+ },
+ {
+   "id": 4,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.4",
+   "image": "https://i.pinimg.com/750x/5c/42/bc/5c42bcca6d532113d13844c960a2e8a3.jpg"
+ },
+ {
+   "id": 5,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.5",
+   "image": "https://i.pinimg.com/750x/9a/36/3f/9a363fcc2b40d819d93050e430cad594.jpg"
+ },
+ {
+   "id": 6,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.6",
+   "image": "https://i.pinimg.com/750x/b9/25/3f/b9253f4208b48abd79586484aaf80936.jpg"
+ },
+ {
+   "id": 7,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.7",
+   "image": "https://i.pinimg.com/750x/d7/5d/4b/d75d4bf5c57674343d86059336ee3296.jpg"
+ },
+ {
+   "id": 8,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.8",
+   "image": "https://i.pinimg.com/750x/e1/35/e0/e135e059f393364f0457b09d57276369.jpg"
+ },
+ {
+   "id": 9,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.9",
+   "image": "https://i.pinimg.com/750x/79/cc/1d/79cc1df8b9c206b231f01d917a1ef24a.jpg"
+ },
+ {
+   "id": 10,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.10",
+   "image": "https://i.pinimg.com/750x/f2/fc/ea/f2fceaf8eb6ff72526c62248b223997d.jpg"
+ },
+ {
+   "id": 11,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.11",
+   "image": "https://i.pinimg.com/750x/75/57/b8/7557b8a33d4d8b45666ebc5009ff3fcc.jpg"
+ },
+ {
+   "id": 12,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.12",
+   "image": "https://i.pinimg.com/750x/3c/82/e6/3c82e696595a00e9631922aa6731c960.jpg"
+ },
+ {
+   "id": 13,
+   "name_category": "Gacha Life 4",
+   "title": "Gacha Life 4.13",
+   "image": "https://i.pinimg.com/750x/75/17/df/7517df2546c718ea904b0eb17187fccd.jpg"
  },
  {
    "id": 6,
