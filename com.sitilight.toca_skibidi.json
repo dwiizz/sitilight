@@ -1,12 +1,12 @@
 {
   "Ads": [
    {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "2809705bd25bfd16",
-      "main_ads_intertitial":"a253f146eec44abd",
-      "main_ads_natives":"cb386b4042a4438f",
-      "main_ads_rewards":"e3c68e415bff9464",
+      "main_ads_banner": "971084520813460_971085324146713",
+      "main_ads_intertitial":"971084520813460_971085324146713",
+      "main_ads_natives":"971084520813460_971085364146709",
+      "main_ads_rewards":"971084520813460_971085400813372",
       "backup_ads_natives":"123456",
       "backup_ads_banner":"123456",
       "backup_ads_intertitial":"123456",
